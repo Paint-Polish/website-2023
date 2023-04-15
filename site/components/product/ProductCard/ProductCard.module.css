@@ -82,11 +82,11 @@
 
 /* Variant Simple */
 .simple .header .name {
-  @apply pt-2 text-lg leading-10 -mt-1;
+  @apply pt-2 text-xs leading-10 -mt-1;
 }
 
 .simple .header .price {
-  @apply text-sm;
+  @apply text-xs;
 }
 
 /* Variant Slim */
@@ -100,8 +100,8 @@
 }
 
 .slim span {
-  @apply bg-accent-9 text-accent-0 inline-block p-3
-  font-bold text-xl break-words;
+  @apply bg-accent-9 text-accent-0 inline-block p-3 opacity-70
+  font-bold text-sm break-words;
 }
 
 .root:global(.secondary) .header span {
