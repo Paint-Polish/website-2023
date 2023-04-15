@@ -3,6 +3,7 @@ import { Container } from '@components/ui'
 import { ArrowRight } from '@components/icons'
 import s from './Hero.module.css'
 import Link from 'next/link'
+import Image from 'next/image'
 interface HeroProps {
   className?: string
   headline: string
@@ -14,14 +15,23 @@ const Hero: FC<HeroProps> = ({ headline, description }) => {
     <div className="bg-accent-9 border-b border-t border-accent-2">
       <Container>
         <div className={s.root}>
-          <h2 className={s.title}>{headline}</h2>
+        <h2 className={s.title}>
+            <Image
+              alt={headline}
+              className={s.productImage}
+              src={'/hero.jpg'}
+              height={720}
+              width={720}
+              quality="85"
+            />
+          </h2>
           <div className={s.description}>
             <p>{description}</p>
             <Link
-              href="/"
+              href="/search/nail-polish"
               className="flex items-center text-accent-0 pt-3 font-bold hover:underline cursor-pointer w-max-content"
             >
-              Read it here
+              Shop Now
               <ArrowRight width="20" heigh="20" className="ml-1" />
             </Link>
           </div>
