@@ -89,13 +89,13 @@ const ProductSidebar: FC<ProductSidebarProps> = ({ product, className }) => {
       {!product.soldOut && (
         <div className="py-8 flex justify-evenly">
           {product.lazadaUrl && (
-            <Button className={s.button} Component="a" href={product.lazadaUrl}>
+            <Button className={s.button} Component="a" href={`https://www.lazada.com.ph/products/${product.lazadaUrl}`}>
               Buy at Lazada
             </Button>
           )}
 
           {product.shopeeUrl && (
-            <Button className={s.button} Component="a" href={product.shopeeUrl}>
+            <Button className={s.button} Component="a" href={`https://shopee.ph/${product.shopeeUrl}`}>
               Buy at Shopee
             </Button>
           )}
