@@ -68,7 +68,7 @@ const ProductView: FC<ProductViewProps> = ({ product, relatedProducts }) => {
         <section className="py-12 px-6 mb-10">
           <Text variant="sectionHeading">Related Products</Text>
           <div className={s.relatedProductsGrid}>
-            {relatedProducts.map((p) => (
+            {relatedProducts.slice(1, 5).map((p) => (
               <div key={p.path} className="bg-accent-0 border border-accent-2">
                 <ProductCard
                   noNameTag
