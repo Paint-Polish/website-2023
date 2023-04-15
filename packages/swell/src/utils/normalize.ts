@@ -65,8 +65,8 @@ const normalizeProductImages = (images: SwellImage[]) => {
   }
   return images?.map(({ file, ...rest }: SwellImage) => ({
     url: file?.url + '',
-    height: Number(file?.height),
-    width: Number(file?.width),
+    height: 1000,
+    width: 1000,
     ...rest,
   }))
 }

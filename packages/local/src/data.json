@@ -16,15 +16,11 @@
       "images": [
         {
           "url": "/assets/products/soiree/soiree.jpg",
-          "altText": "SOIREE",
-          "width": 1000,
-          "height": 1000
+          "altText": "SOIREE"
         },
         {
           "url": "/assets/products/soiree/soiree-cover-photo.jpg",
-          "altText": "SOIREE",
-          "width": 1000,
-          "height": 1000
+          "altText": "SOIREE"
         }
       ],
       "variants": [],
@@ -46,15 +42,11 @@
       "images": [
         {
           "url": "/assets/products/soiree/the-fifth.jpg",
-          "altText": "THE FIFTH",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE FIFTH"
         },
         {
           "url": "/assets/products/soiree/soiree-cover-photo.jpg",
-          "altText": "THE FIFTH",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE FIFTH"
         }
       ],
       "variants": [],
@@ -76,15 +68,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/aries.jpg",
-          "altText": "ARIES",
-          "width": 1000,
-          "height": 1000
+          "altText": "ARIES"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "ARIES",
-          "width": 1000,
-          "height": 1000
+          "altText": "ARIES"
         }
       ],
       "variants": [],
@@ -106,15 +94,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/taurus.jpg",
-          "altText": "TAURUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "TAURUS"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "TAURUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "TAURUS"
         }
       ],
       "variants": [],
@@ -136,15 +120,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/gemini.jpg",
-          "altText": "GEMINI",
-          "width": 1000,
-          "height": 1000
+          "altText": "GEMINI"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "GEMINI",
-          "width": 1000,
-          "height": 1000
+          "altText": "GEMINI"
         }
       ],
       "variants": [],
@@ -166,15 +146,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/cancer.jpg",
-          "altText": "CANCER",
-          "width": 1000,
-          "height": 1000
+          "altText": "CANCER"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "CANCER",
-          "width": 1000,
-          "height": 1000
+          "altText": "CANCER"
         }
       ],
       "variants": [],
@@ -196,15 +172,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/leo.jpg",
-          "altText": "LEO",
-          "width": 1000,
-          "height": 1000
+          "altText": "LEO"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "LEO",
-          "width": 1000,
-          "height": 1000
+          "altText": "LEO"
         }
       ],
       "variants": [],
@@ -226,15 +198,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/virgo.jpg",
-          "altText": "VIRGO",
-          "width": 1000,
-          "height": 1000
+          "altText": "VIRGO"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "VIRGO",
-          "width": 1000,
-          "height": 1000
+          "altText": "VIRGO"
         }
       ],
       "variants": [],
@@ -256,15 +224,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/libra.jpg",
-          "altText": "LIBRA",
-          "width": 1000,
-          "height": 1000
+          "altText": "LIBRA"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "LIBRA",
-          "width": 1000,
-          "height": 1000
+          "altText": "LIBRA"
         }
       ],
       "variants": [],
@@ -286,15 +250,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/scorpio.jpg",
-          "altText": "SCORPIO",
-          "width": 1000,
-          "height": 1000
+          "altText": "SCORPIO"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "SCORPIO",
-          "width": 1000,
-          "height": 1000
+          "altText": "SCORPIO"
         }
       ],
       "variants": [],
@@ -316,15 +276,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/sagittarius.jpg",
-          "altText": "SAGITTARIUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "SAGITTARIUS"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "SAGITTARIUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "SAGITTARIUS"
         }
       ],
       "variants": [],
@@ -346,15 +302,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/capricorn.jpg",
-          "altText": "CAPRICORN",
-          "width": 1000,
-          "height": 1000
+          "altText": "CAPRICORN"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "CAPRICORN",
-          "width": 1000,
-          "height": 1000
+          "altText": "CAPRICORN"
         }
       ],
       "variants": [],
@@ -376,15 +328,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/aquarius.jpg",
-          "altText": "AQUARIUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "AQUARIUS"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "AQUARIUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "AQUARIUS"
         }
       ],
       "variants": [],
@@ -406,15 +354,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/pisces.jpg",
-          "altText": "PISCES",
-          "width": 1000,
-          "height": 1000
+          "altText": "PISCES"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "PISCES",
-          "width": 1000,
-          "height": 1000
+          "altText": "PISCES"
         }
       ],
       "variants": [],
@@ -436,15 +380,11 @@
       "images": [
         {
           "url": "/assets/products/zodiac/ophiuchus.jpg",
-          "altText": "OPHIUCHUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "OPHIUCHUS"
         },
         {
           "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
-          "altText": "OPHIUCHUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "OPHIUCHUS"
         }
       ],
       "variants": [],
@@ -466,15 +406,11 @@
       "images": [
         {
           "url": "/assets/products/nail-care/Cuticle oil 3.jpg",
-          "altText": "Cuticle Oil",
-          "width": 1000,
-          "height": 1000
+          "altText": "Cuticle Oil"
         },
         {
           "url": "/assets/products/nail-care/Cuticle oil both 5.jpg",
-          "altText": "Cuticle Oil",
-          "width": 1000,
-          "height": 1000
+          "altText": "Cuticle Oil"
         }
       ],
       "variants": [],
@@ -496,15 +432,11 @@
       "images": [
         {
           "url": "/assets/products/nail-care/Cuticle oil with shimmer 3.jpg",
-          "altText": "Cuticle Oil with Shimmer",
-          "width": 1000,
-          "height": 1000
+          "altText": "Cuticle Oil with Shimmer"
         },
         {
           "url": "/assets/products/nail-care/Cuticle oil both 5.jpg",
-          "altText": "Cuticle Oil with Shimmer",
-          "width": 1000,
-          "height": 1000
+          "altText": "Cuticle Oil with Shimmer"
         }
       ],
       "variants": [],
@@ -526,9 +458,7 @@
       "images": [
         {
           "url": "/assets/products/nail-care/cuticle-cream.jpg",
-          "altText": "Cuticle Cream",
-          "width": 1000,
-          "height": 1000
+          "altText": "Cuticle Cream"
         }
       ],
       "variants": [],
@@ -550,9 +480,7 @@
       "images": [
         {
           "url": "/assets/products/nail-care/cuticle-scrub.jpg",
-          "altText": "Cuticle Scrub",
-          "width": 1000,
-          "height": 1000
+          "altText": "Cuticle Scrub"
         }
       ],
       "variants": [],
@@ -574,15 +502,11 @@
       "images": [
         {
           "url": "/assets/products/campus/UE (reflect flash).jpeg",
-          "altText": "GO FIGHT! RED AND WHITE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "GO FIGHT! RED AND WHITE!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "GO FIGHT! RED AND WHITE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "GO FIGHT! RED AND WHITE!"
         }
       ],
       "variants": [],
@@ -604,15 +528,11 @@
       "images": [
         {
           "url": "/assets/products/campus/ADU (bottle 1).jpg",
-          "altText": "A-D-U! WHITE AND BLUE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "A-D-U! WHITE AND BLUE!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "A-D-U! WHITE AND BLUE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "A-D-U! WHITE AND BLUE!"
         }
       ],
       "variants": [],
@@ -634,15 +554,11 @@
       "images": [
         {
           "url": "/assets/products/campus/FEU (bottle 2).jpg",
-          "altText": "LET’S GO TAMARAWS!",
-          "width": 1000,
-          "height": 1000
+          "altText": "LET’S GO TAMARAWS!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "LET’S GO TAMARAWS!",
-          "width": 1000,
-          "height": 1000
+          "altText": "LET’S GO TAMARAWS!"
         }
       ],
       "variants": [],
@@ -664,15 +580,11 @@
       "images": [
         {
           "url": "/assets/products/campus/UST Bottle.jpg",
-          "altText": "GO USTE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "GO USTE!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "GO USTE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "GO USTE!"
         }
       ],
       "variants": [],
@@ -694,15 +606,11 @@
       "images": [
         {
           "url": "/assets/products/campus/UP_magnetized_bottle1.jpg",
-          "altText": "UP FIGHT!",
-          "width": 1000,
-          "height": 1000
+          "altText": "UP FIGHT!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "UP FIGHT!",
-          "width": 1000,
-          "height": 1000
+          "altText": "UP FIGHT!"
         }
       ],
       "variants": [],
@@ -724,15 +632,11 @@
       "images": [
         {
           "url": "/assets/products/campus/Ateneo (bottle A).jpg",
-          "altText": "ONE BIG FIGHT!",
-          "width": 1000,
-          "height": 1000
+          "altText": "ONE BIG FIGHT!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "ONE BIG FIGHT!",
-          "width": 1000,
-          "height": 1000
+          "altText": "ONE BIG FIGHT!"
         }
       ],
       "variants": [],
@@ -754,15 +658,11 @@
       "images": [
         {
           "url": "/assets/products/campus/DLSU bottle.jpeg",
-          "altText": "ANIMO LA SALLE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "ANIMO LA SALLE!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "ANIMO LA SALLE!",
-          "width": 1000,
-          "height": 1000
+          "altText": "ANIMO LA SALLE!"
         }
       ],
       "variants": [],
@@ -784,15 +684,11 @@
       "images": [
         {
           "url": "/assets/products/campus/NU - bottle 1.jpg",
-          "altText": "HEY! NU! LET’S GO!",
-          "width": 1000,
-          "height": 1000
+          "altText": "HEY! NU! LET’S GO!"
         },
         {
           "url": "/assets/products/campus/cover photo.jpg",
-          "altText": "HEY! NU! LET’S GO!",
-          "width": 1000,
-          "height": 1000
+          "altText": "HEY! NU! LET’S GO!"
         }
       ],
       "variants": [],
@@ -814,15 +710,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Charms - Morsmordre (bottle, magnetized).jpg",
-          "altText": "MORSMORDRE",
-          "width": 1000,
-          "height": 1000
+          "altText": "MORSMORDRE"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "MORSMORDRE",
-          "width": 1000,
-          "height": 1000
+          "altText": "MORSMORDRE"
         }
       ],
       "variants": [],
@@ -844,15 +736,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Charms - Expelliarmus (bottle, magnetized).jpg",
-          "altText": "EXPELLIARMUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "EXPELLIARMUS"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "EXPELLIARMUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "EXPELLIARMUS"
         }
       ],
       "variants": [],
@@ -874,15 +762,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Charms - Alohamora (bottle, magnetized).jpg",
-          "altText": "ALOHAMORA",
-          "width": 1000,
-          "height": 1000
+          "altText": "ALOHAMORA"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "ALOHAMORA",
-          "width": 1000,
-          "height": 1000
+          "altText": "ALOHAMORA"
         }
       ],
       "variants": [],
@@ -904,15 +788,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Charms - Expecto Patronum (bottle, magnetized).jpg",
-          "altText": "EXPECTO PATRONUM",
-          "width": 1000,
-          "height": 1000
+          "altText": "EXPECTO PATRONUM"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "EXPECTO PATRONUM",
-          "width": 1000,
-          "height": 1000
+          "altText": "EXPECTO PATRONUM"
         }
       ],
       "variants": [],
@@ -934,15 +814,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Charms - Wingardium Leviosa (bottle, magnetized).jpeg",
-          "altText": "WINGARDIUM LEVIOSA",
-          "width": 1000,
-          "height": 1000
+          "altText": "WINGARDIUM LEVIOSA"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "WINGARDIUM LEVIOSA",
-          "width": 1000,
-          "height": 1000
+          "altText": "WINGARDIUM LEVIOSA"
         }
       ],
       "variants": [],
@@ -964,15 +840,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Curses - Petrificus Totalus (magnetized).jpg",
-          "altText": "PETRIFICUS TOTALUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "PETRIFICUS TOTALUS"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "PETRIFICUS TOTALUS",
-          "width": 1000,
-          "height": 1000
+          "altText": "PETRIFICUS TOTALUS"
         }
       ],
       "variants": [],
@@ -994,15 +866,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Curses - Crucio (magnetized).jpg",
-          "altText": "CRUCIO",
-          "width": 1000,
-          "height": 1000
+          "altText": "CRUCIO"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "CRUCIO",
-          "width": 1000,
-          "height": 1000
+          "altText": "CRUCIO"
         }
       ],
       "variants": [],
@@ -1024,15 +892,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Curses - Sectumsempra (magnetized).jpg",
-          "altText": "SECTUMSEMPRA",
-          "width": 1000,
-          "height": 1000
+          "altText": "SECTUMSEMPRA"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "SECTUMSEMPRA",
-          "width": 1000,
-          "height": 1000
+          "altText": "SECTUMSEMPRA"
         }
       ],
       "variants": [],
@@ -1054,15 +918,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Curses - Avada Kedavra (magnetized).jpg",
-          "altText": "AVADA KEDAVRA",
-          "width": 1000,
-          "height": 1000
+          "altText": "AVADA KEDAVRA"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "AVADA KEDAVRA",
-          "width": 1000,
-          "height": 1000
+          "altText": "AVADA KEDAVRA"
         }
       ],
       "variants": [],
@@ -1084,15 +944,11 @@
       "images": [
         {
           "url": "/assets/products/spells/Curses - Imperio (magnetized).jpg",
-          "altText": "IMPERIO",
-          "width": 1000,
-          "height": 1000
+          "altText": "IMPERIO"
         },
         {
           "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
-          "altText": "IMPERIO",
-          "width": 1000,
-          "height": 1000
+          "altText": "IMPERIO"
         }
       ],
       "variants": [],
@@ -1114,15 +970,11 @@
       "images": [
         {
           "url": "/assets/products/love-verse/Love is Patient (magnetized, bottle).jpeg",
-          "altText": "LOVE IS PATIENT",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE IS PATIENT"
         },
         {
           "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
-          "altText": "LOVE IS PATIENT",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE IS PATIENT"
         }
       ],
       "variants": [],
@@ -1144,15 +996,11 @@
       "images": [
         {
           "url": "/assets/products/love-verse/Love is Kind (bottle).jpeg",
-          "altText": "LOVE IS KIND",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE IS KIND"
         },
         {
           "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
-          "altText": "LOVE IS KIND",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE IS KIND"
         }
       ],
       "variants": [],
@@ -1174,15 +1022,11 @@
       "images": [
         {
           "url": "/assets/products/love-verse/Love Protects (bottle).jpeg",
-          "altText": "LOVE PROTECTS",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE PROTECTS"
         },
         {
           "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
-          "altText": "LOVE PROTECTS",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE PROTECTS"
         }
       ],
       "variants": [],
@@ -1204,15 +1048,11 @@
       "images": [
         {
           "url": "/assets/products/love-verse/Love Trusts (bottle).jpeg",
-          "altText": "LOVE TRUSTS",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE TRUSTS"
         },
         {
           "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
-          "altText": "LOVE TRUSTS",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE TRUSTS"
         }
       ],
       "variants": [],
@@ -1234,15 +1074,11 @@
       "images": [
         {
           "url": "/assets/products/love-verse/Love Hopes (shade bottle).jpeg",
-          "altText": "LOVE HOPES",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE HOPES"
         },
         {
           "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
-          "altText": "LOVE HOPES",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE HOPES"
         }
       ],
       "variants": [],
@@ -1264,15 +1100,11 @@
       "images": [
         {
           "url": "/assets/products/love-verse/Love Perseveres (Combined bottle).jpeg",
-          "altText": "LOVE PERSEVERES",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE PERSEVERES"
         },
         {
           "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
-          "altText": "LOVE PERSEVERES",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE PERSEVERES"
         }
       ],
       "variants": [],
@@ -1294,15 +1126,11 @@
       "images": [
         {
           "url": "/assets/products/love-verse/Love Never Fails (bottle).jpeg",
-          "altText": "LOVE NEVER FAILS",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE NEVER FAILS"
         },
         {
           "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
-          "altText": "LOVE NEVER FAILS",
-          "width": 1000,
-          "height": 1000
+          "altText": "LOVE NEVER FAILS"
         }
       ],
       "variants": [],
@@ -1324,15 +1152,11 @@
       "images": [
         {
           "url": "/assets/products/cocktail-ii/Aviation (bottle).jpeg",
-          "altText": "AVIATION",
-          "width": 1000,
-          "height": 1000
+          "altText": "AVIATION"
         },
         {
           "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
-          "altText": "AVIATION",
-          "width": 1000,
-          "height": 1000
+          "altText": "AVIATION"
         }
       ],
       "variants": [],
@@ -1354,15 +1178,11 @@
       "images": [
         {
           "url": "/assets/products/cocktail-ii/Bellini (bottle).jpeg",
-          "altText": "BELLINI",
-          "width": 1000,
-          "height": 1000
+          "altText": "BELLINI"
         },
         {
           "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
-          "altText": "BELLINI",
-          "width": 1000,
-          "height": 1000
+          "altText": "BELLINI"
         }
       ],
       "variants": [],
@@ -1384,15 +1204,11 @@
       "images": [
         {
           "url": "/assets/products/cocktail-ii/Black Magic (bottle).jpeg",
-          "altText": "BLACK MAGIC",
-          "width": 1000,
-          "height": 1000
+          "altText": "BLACK MAGIC"
         },
         {
           "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
-          "altText": "BLACK MAGIC",
-          "width": 1000,
-          "height": 1000
+          "altText": "BLACK MAGIC"
         }
       ],
       "variants": [],
@@ -1414,15 +1230,11 @@
       "images": [
         {
           "url": "/assets/products/cocktail-ii/Cappuccinotini (bottle).jpeg",
-          "altText": "CAPPUCCINOTINI",
-          "width": 1000,
-          "height": 1000
+          "altText": "CAPPUCCINOTINI"
         },
         {
           "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
-          "altText": "CAPPUCCINOTINI",
-          "width": 1000,
-          "height": 1000
+          "altText": "CAPPUCCINOTINI"
         }
       ],
       "variants": [],
@@ -1444,15 +1256,11 @@
       "images": [
         {
           "url": "/assets/products/cocktail-ii/Rose (bottle).jpeg",
-          "altText": "ROSE",
-          "width": 1000,
-          "height": 1000
+          "altText": "ROSE"
         },
         {
           "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
-          "altText": "ROSE",
-          "width": 1000,
-          "height": 1000
+          "altText": "ROSE"
         }
       ],
       "variants": [],
@@ -1474,15 +1282,11 @@
       "images": [
         {
           "url": "/assets/products/cocktail-ii/Sangria (bottle).jpeg",
-          "altText": "SANGRIA",
-          "width": 1000,
-          "height": 1000
+          "altText": "SANGRIA"
         },
         {
           "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
-          "altText": "SANGRIA",
-          "width": 1000,
-          "height": 1000
+          "altText": "SANGRIA"
         }
       ],
       "variants": [],
@@ -1504,15 +1308,11 @@
       "images": [
         {
           "url": "/assets/products/new-year-duo/Thank you, 2021 (bottle).jpeg",
-          "altText": "THANK YOU 2021",
-          "width": 1000,
-          "height": 1000
+          "altText": "THANK YOU 2021"
         },
         {
           "url": "/assets/products/new-year-duo/New year duo group pic 1.jpeg",
-          "altText": "THANK YOU 2021",
-          "width": 1000,
-          "height": 1000
+          "altText": "THANK YOU 2021"
         }
       ],
       "variants": [],
@@ -1534,15 +1334,11 @@
       "images": [
         {
           "url": "/assets/products/new-year-duo/Cheers to 2022 (bottle).jpeg",
-          "altText": "CHEERS TO 2022",
-          "width": 1000,
-          "height": 1000
+          "altText": "CHEERS TO 2022"
         },
         {
           "url": "/assets/products/new-year-duo/New year duo group pic 1.jpeg",
-          "altText": "CHEERS TO 2022",
-          "width": 1000,
-          "height": 1000
+          "altText": "CHEERS TO 2022"
         }
       ],
       "variants": [],
@@ -1564,15 +1360,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Everyday (bottle).jpeg",
-          "altText": "EVERYDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "EVERYDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "EVERYDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "EVERYDAY"
         }
       ],
       "variants": [],
@@ -1594,15 +1386,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Monday (bottle).jpeg",
-          "altText": "MONDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "MONDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "MONDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "MONDAY"
         }
       ],
       "variants": [],
@@ -1624,15 +1412,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Tuesday (bottle).jpeg",
-          "altText": "TUESDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "TUESDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "TUESDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "TUESDAY"
         }
       ],
       "variants": [],
@@ -1654,15 +1438,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Wednesday (bottle).jpeg",
-          "altText": "WEDNESDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "WEDNESDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "WEDNESDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "WEDNESDAY"
         }
       ],
       "variants": [],
@@ -1684,15 +1464,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Thursday (bottle).jpeg",
-          "altText": "THURSDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "THURSDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "THURSDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "THURSDAY"
         }
       ],
       "variants": [],
@@ -1714,15 +1490,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Friday (bottle).jpeg",
-          "altText": "FRIDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "FRIDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "FRIDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "FRIDAY"
         }
       ],
       "variants": [],
@@ -1744,15 +1516,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Saturday (bottle).jpeg",
-          "altText": "SATURDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "SATURDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "SATURDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "SATURDAY"
         }
       ],
       "variants": [],
@@ -1774,15 +1542,11 @@
       "images": [
         {
           "url": "/assets/products/holoday/Sunday (bottle).jpeg",
-          "altText": "SUNDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "SUNDAY"
         },
         {
           "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
-          "altText": "SUNDAY",
-          "width": 1000,
-          "height": 1000
+          "altText": "SUNDAY"
         }
       ],
       "variants": [],
@@ -1804,15 +1568,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Artemis (bottle).JPG",
-          "altText": "ARTEMIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "ARTEMIS"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "ARTEMIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "ARTEMIS"
         }
       ],
       "variants": [],
@@ -1834,15 +1594,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Aphrodite (bottle).JPG",
-          "altText": "APHRODITE",
-          "width": 1000,
-          "height": 1000
+          "altText": "APHRODITE"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "APHRODITE",
-          "width": 1000,
-          "height": 1000
+          "altText": "APHRODITE"
         }
       ],
       "variants": [],
@@ -1864,15 +1620,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Aura (bottle).JPG",
-          "altText": "AURA",
-          "width": 1000,
-          "height": 1000
+          "altText": "AURA"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "AURA",
-          "width": 1000,
-          "height": 1000
+          "altText": "AURA"
         }
       ],
       "variants": [],
@@ -1894,15 +1646,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Chloris (bottle).JPG",
-          "altText": "CHLORIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "CHLORIS"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "CHLORIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "CHLORIS"
         }
       ],
       "variants": [],
@@ -1924,15 +1672,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Daphne (bottle).JPG",
-          "altText": "DAPHNE",
-          "width": 1000,
-          "height": 1000
+          "altText": "DAPHNE"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "DAPHNE",
-          "width": 1000,
-          "height": 1000
+          "altText": "DAPHNE"
         }
       ],
       "variants": [],
@@ -1954,15 +1698,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Hemera (bottle).JPG",
-          "altText": "HEMERA",
-          "width": 1000,
-          "height": 1000
+          "altText": "HEMERA"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "HEMERA",
-          "width": 1000,
-          "height": 1000
+          "altText": "HEMERA"
         }
       ],
       "variants": [],
@@ -1984,15 +1724,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Iris (bottle).JPG",
-          "altText": "IRIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "IRIS"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "IRIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "IRIS"
         }
       ],
       "variants": [],
@@ -2014,15 +1750,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Nyx (bottle).JPG",
-          "altText": "NYX",
-          "width": 1000,
-          "height": 1000
+          "altText": "NYX"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "NYX",
-          "width": 1000,
-          "height": 1000
+          "altText": "NYX"
         }
       ],
       "variants": [],
@@ -2044,15 +1776,11 @@
       "images": [
         {
           "url": "/assets/products/goddess/Selene (bottle).JPG",
-          "altText": "SELENE",
-          "width": 1000,
-          "height": 1000
+          "altText": "SELENE"
         },
         {
           "url": "/assets/products/goddess/Goddess group pic 1.jpg",
-          "altText": "SELENE",
-          "width": 1000,
-          "height": 1000
+          "altText": "SELENE"
         }
       ],
       "variants": [],
@@ -2074,15 +1802,11 @@
       "images": [
         {
           "url": "/assets/products/wizarding-world/The Brave (magnetized, swatch 2).jpeg",
-          "altText": "THE BRAVE",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE BRAVE"
         },
         {
           "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
-          "altText": "THE BRAVE",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE BRAVE"
         }
       ],
       "variants": [],
@@ -2104,15 +1828,11 @@
       "images": [
         {
           "url": "/assets/products/wizarding-world/The Wise (magnetized, swatch 2).jpeg",
-          "altText": "THE WISE",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE WISE"
         },
         {
           "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
-          "altText": "THE WISE",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE WISE"
         }
       ],
       "variants": [],
@@ -2134,15 +1854,11 @@
       "images": [
         {
           "url": "/assets/products/wizarding-world/The Loyal (magnetized, swatch 2).jpeg",
-          "altText": "THE LOYAL",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE LOYAL"
         },
         {
           "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
-          "altText": "THE LOYAL",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE LOYAL"
         }
       ],
       "variants": [],
@@ -2164,15 +1880,11 @@
       "images": [
         {
           "url": "/assets/products/wizarding-world/The Cunning (magnetized, swatch 2).jpeg",
-          "altText": "THE CUNNING",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE CUNNING"
         },
         {
           "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
-          "altText": "THE CUNNING",
-          "width": 1000,
-          "height": 1000
+          "altText": "THE CUNNING"
         }
       ],
       "variants": [],
@@ -2194,15 +1906,11 @@
       "images": [
         {
           "url": "/assets/products/wizarding-world/Always (magnetized, swatch 2).jpeg",
-          "altText": "ALWAYS",
-          "width": 1000,
-          "height": 1000
+          "altText": "ALWAYS"
         },
         {
           "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
-          "altText": "ALWAYS",
-          "width": 1000,
-          "height": 1000
+          "altText": "ALWAYS"
         }
       ],
       "variants": [],
@@ -2224,15 +1932,11 @@
       "images": [
         {
           "url": "/assets/products/army/baby mochi (bottle).JPG",
-          "altText": "BABY MOCHI",
-          "width": 1000,
-          "height": 1000
+          "altText": "BABY MOCHI"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "BABY MOCHI",
-          "width": 1000,
-          "height": 1000
+          "altText": "BABY MOCHI"
         }
       ],
       "variants": [],
@@ -2254,15 +1958,11 @@
       "images": [
         {
           "url": "/assets/products/army/borahae (bottle).JPG",
-          "altText": "BORAHAE",
-          "width": 1000,
-          "height": 1000
+          "altText": "BORAHAE"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "BORAHAE",
-          "width": 1000,
-          "height": 1000
+          "altText": "BORAHAE"
         }
       ],
       "variants": [],
@@ -2284,15 +1984,11 @@
       "images": [
         {
           "url": "/assets/products/army/kookie (bottle).JPG",
-          "altText": "KOOKIE",
-          "width": 1000,
-          "height": 1000
+          "altText": "KOOKIE"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "KOOKIE",
-          "width": 1000,
-          "height": 1000
+          "altText": "KOOKIE"
         }
       ],
       "variants": [],
@@ -2314,15 +2010,11 @@
       "images": [
         {
           "url": "/assets/products/army/lil meow (bottle).JPG",
-          "altText": "LIL MEOW",
-          "width": 1000,
-          "height": 1000
+          "altText": "LIL MEOW"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "LIL MEOW",
-          "width": 1000,
-          "height": 1000
+          "altText": "LIL MEOW"
         }
       ],
       "variants": [],
@@ -2344,15 +2036,11 @@
       "images": [
         {
           "url": "/assets/products/army/moonchild (bottle).JPG",
-          "altText": "MOONCHILD",
-          "width": 1000,
-          "height": 1000
+          "altText": "MOONCHILD"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "MOONCHILD",
-          "width": 1000,
-          "height": 1000
+          "altText": "MOONCHILD"
         }
       ],
       "variants": [],
@@ -2374,15 +2062,11 @@
       "images": [
         {
           "url": "/assets/products/army/taetae (bottle).JPG",
-          "altText": "TAETAE",
-          "width": 1000,
-          "height": 1000
+          "altText": "TAETAE"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "TAETAE",
-          "width": 1000,
-          "height": 1000
+          "altText": "TAETAE"
         }
       ],
       "variants": [],
@@ -2404,15 +2088,11 @@
       "images": [
         {
           "url": "/assets/products/army/WWH (bottle).JPG",
-          "altText": "WWH",
-          "width": 1000,
-          "height": 1000
+          "altText": "WWH"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "WWH",
-          "width": 1000,
-          "height": 1000
+          "altText": "WWH"
         }
       ],
       "variants": [],
@@ -2434,15 +2114,11 @@
       "images": [
         {
           "url": "/assets/products/army/hobi (bottle).JPG",
-          "altText": "HOBI",
-          "width": 1000,
-          "height": 1000
+          "altText": "HOBI"
         },
         {
           "url": "/assets/products/army/army group pic 1.jpg",
-          "altText": "HOBI",
-          "width": 1000,
-          "height": 1000
+          "altText": "HOBI"
         }
       ],
       "variants": [],
@@ -2464,15 +2140,11 @@
       "images": [
         {
           "url": "/assets/products/ethereal/Mirage (bottle).jpg",
-          "altText": "MIRAGE",
-          "width": 1000,
-          "height": 1000
+          "altText": "MIRAGE"
         },
         {
           "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
-          "altText": "MIRAGE",
-          "width": 1000,
-          "height": 1000
+          "altText": "MIRAGE"
         }
       ],
       "variants": [],
@@ -2494,15 +2166,11 @@
       "images": [
         {
           "url": "/assets/products/ethereal/Dewdrop (bottle).jpg",
-          "altText": "DEWDROP",
-          "width": 1000,
-          "height": 1000
+          "altText": "DEWDROP"
         },
         {
           "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
-          "altText": "DEWDROP",
-          "width": 1000,
-          "height": 1000
+          "altText": "DEWDROP"
         }
       ],
       "variants": [],
@@ -2524,15 +2192,11 @@
       "images": [
         {
           "url": "/assets/products/ethereal/Tulle (bottle).jpg",
-          "altText": "TULLE",
-          "width": 1000,
-          "height": 1000
+          "altText": "TULLE"
         },
         {
           "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
-          "altText": "TULLE",
-          "width": 1000,
-          "height": 1000
+          "altText": "TULLE"
         }
       ],
       "variants": [],
@@ -2554,15 +2218,11 @@
       "images": [
         {
           "url": "/assets/products/ethereal/Oasis (bottle).jpg",
-          "altText": "OASIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "OASIS"
         },
         {
           "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
-          "altText": "OASIS",
-          "width": 1000,
-          "height": 1000
+          "altText": "OASIS"
         }
       ],
       "variants": [],
@@ -2584,15 +2244,11 @@
       "images": [
         {
           "url": "/assets/products/ethereal/Halo (bottle).jpg",
-          "altText": "HALO",
-          "width": 1000,
-          "height": 1000
+          "altText": "HALO"
         },
         {
           "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
-          "altText": "HALO",
-          "width": 1000,
-          "height": 1000
+          "altText": "HALO"
         }
       ],
       "variants": [],
@@ -2614,15 +2270,11 @@
       "images": [
         {
           "url": "/assets/products/ethereal/Aurora (bottle).jpg",
-          "altText": "AURORA",
-          "width": 1000,
-          "height": 1000
+          "altText": "AURORA"
         },
         {
           "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
-          "altText": "AURORA",
-          "width": 1000,
-          "height": 1000
+          "altText": "AURORA"
         }
       ],
       "variants": [],
@@ -2644,15 +2296,11 @@
       "images": [
         {
           "url": "/assets/products/ethereal/Prism (over white, bottle, swatch).jpg",
-          "altText": "PRISM",
-          "width": 1000,
-          "height": 1000
+          "altText": "PRISM"
         },
         {
           "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
-          "altText": "PRISM",
-          "width": 1000,
-          "height": 1000
+          "altText": "PRISM"
         }
       ],
       "variants": [],
@@ -2674,15 +2322,11 @@
       "images": [
         {
           "url": "/assets/products/time/Eventide (bottle).jpg",
-          "altText": "EVENTIDE",
-          "width": 1000,
-          "height": 1000
+          "altText": "EVENTIDE"
         },
         {
           "url": "/assets/products/time/Time Collection group pic.JPG",
-          "altText": "EVENTIDE",
-          "width": 1000,
-          "height": 1000
+          "altText": "EVENTIDE"
         }
       ],
       "variants": [],
@@ -2704,15 +2348,11 @@
       "images": [
         {
           "url": "/assets/products/time/Twilight (bottle).jpg",
-          "altText": "TWILIGHT",
-          "width": 1000,
-          "height": 1000
+          "altText": "TWILIGHT"
         },
         {
           "url": "/assets/products/time/Time Collection group pic.JPG",
-          "altText": "TWILIGHT",
-          "width": 1000,
-          "height": 1000
+          "altText": "TWILIGHT"
         }
       ],
       "variants": [],
@@ -2734,15 +2374,11 @@
       "images": [
         {
           "url": "/assets/products/time/Dusk (bottle).jpg",
-          "altText": "DUSK",
-          "width": 1000,
-          "height": 1000
+          "altText": "DUSK"
         },
         {
           "url": "/assets/products/time/Time Collection group pic.JPG",
-          "altText": "DUSK",
-          "width": 1000,
-          "height": 1000
+          "altText": "DUSK"
         }
       ],
       "variants": [],
@@ -2764,15 +2400,11 @@
       "images": [
         {
           "url": "/assets/products/time/Dawn (bottle).jpg",
-          "altText": "DAWN",
-          "width": 1000,
-          "height": 1000
+          "altText": "DAWN"
         },
         {
           "url": "/assets/products/time/Time Collection group pic.JPG",
-          "altText": "DAWN",
-          "width": 1000,
-          "height": 1000
+          "altText": "DAWN"
         }
       ],
       "variants": [],
@@ -2794,15 +2426,11 @@
       "images": [
         {
           "url": "/assets/products/ever-after/Dance with fairies (macro).JPG",
-          "altText": "DANCE WITH FAIRIES",
-          "width": 1000,
-          "height": 1000
+          "altText": "DANCE WITH FAIRIES"
         },
         {
           "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
-          "altText": "DANCE WITH FAIRIES",
-          "width": 1000,
-          "height": 1000
+          "altText": "DANCE WITH FAIRIES"
         }
       ],
       "variants": [],
@@ -2824,15 +2452,11 @@
       "images": [
         {
           "url": "/assets/products/ever-after/Swim with mermaids (macro).JPG",
-          "altText": "SWIM WITH MERMAIDS",
-          "width": 1000,
-          "height": 1000
+          "altText": "SWIM WITH MERMAIDS"
         },
         {
           "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
-          "altText": "SWIM WITH MERMAIDS",
-          "width": 1000,
-          "height": 1000
+          "altText": "SWIM WITH MERMAIDS"
         }
       ],
       "variants": [],
@@ -2854,15 +2478,11 @@
       "images": [
         {
           "url": "/assets/products/ever-after/Ride A Unicorn (swatch).jpg",
-          "altText": "RIDE A UNICORN",
-          "width": 1000,
-          "height": 1000
+          "altText": "RIDE A UNICORN"
         },
         {
           "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
-          "altText": "RIDE A UNICORN",
-          "width": 1000,
-          "height": 1000
+          "altText": "RIDE A UNICORN"
         }
       ],
       "variants": [],
@@ -2884,15 +2504,11 @@
       "images": [
         {
           "url": "/assets/products/ever-after/Chase Rainbows (bottle, swatch).JPG",
-          "altText": "CHASE RAINBOWS",
-          "width": 1000,
-          "height": 1000
+          "altText": "CHASE RAINBOWS"
         },
         {
           "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
-          "altText": "CHASE RAINBOWS",
-          "width": 1000,
-          "height": 1000
+          "altText": "CHASE RAINBOWS"
         }
       ],
       "variants": [],
@@ -2914,9 +2530,7 @@
       "images": [
         {
           "url": "/assets/products/seasons/Autumn (macro).jpg",
-          "altText": "AUTUMN",
-          "width": 1000,
-          "height": 1000
+          "altText": "AUTUMN"
         }
       ],
       "variants": [],
@@ -2938,9 +2552,7 @@
       "images": [
         {
           "url": "/assets/products/seasons/Solstice (macro).jpg",
-          "altText": "SOLSTICE",
-          "width": 1000,
-          "height": 1000
+          "altText": "SOLSTICE"
         }
       ],
       "variants": [],
@@ -2962,9 +2574,7 @@
       "images": [
         {
           "url": "/assets/products/seasons/Winter (macro).jpg",
-          "altText": "WINTER",
-          "width": 1000,
-          "height": 1000
+          "altText": "WINTER"
         }
       ],
       "variants": [],
@@ -2986,9 +2596,7 @@
       "images": [
         {
           "url": "/assets/products/seasons/Equinox (macro).jpg",
-          "altText": "EQUINOX",
-          "width": 1000,
-          "height": 1000
+          "altText": "EQUINOX"
         }
       ],
       "variants": [],
@@ -3010,9 +2618,7 @@
       "images": [
         {
           "url": "/assets/products/seasons/Spring (macro).jpg",
-          "altText": "SPRING",
-          "width": 1000,
-          "height": 1000
+          "altText": "SPRING"
         }
       ],
       "variants": [],
@@ -3034,9 +2640,7 @@
       "images": [
         {
           "url": "/assets/products/seasons/Summer (macro).jpg",
-          "altText": "SUMMER",
-          "width": 1000,
-          "height": 1000
+          "altText": "SUMMER"
         }
       ],
       "variants": [],
@@ -3058,15 +2662,11 @@
       "images": [
         {
           "url": "/assets/products/milktea/Classic Milktea (swatch).jpg",
-          "altText": "CLASSIC MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "CLASSIC MILKTEA"
         },
         {
           "url": "/assets/products/milktea/Milktea group pic 2.jpg",
-          "altText": "CLASSIC MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "CLASSIC MILKTEA"
         }
       ],
       "variants": [],
@@ -3088,15 +2688,11 @@
       "images": [
         {
           "url": "/assets/products/milktea/Yakult Milktea (swatch).jpg",
-          "altText": "YAKULT MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "YAKULT MILKTEA"
         },
         {
           "url": "/assets/products/milktea/Milktea group pic 2.jpg",
-          "altText": "YAKULT MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "YAKULT MILKTEA"
         }
       ],
       "variants": [],
@@ -3118,15 +2714,11 @@
       "images": [
         {
           "url": "/assets/products/milktea/Taro Milktea (swatch).jpg",
-          "altText": "TARO MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "TARO MILKTEA"
         },
         {
           "url": "/assets/products/milktea/Milktea group pic 2.jpg",
-          "altText": "TARO MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "TARO MILKTEA"
         }
       ],
       "variants": [],
@@ -3148,15 +2740,11 @@
       "images": [
         {
           "url": "/assets/products/milktea/Matcha Milktea (swatch).jpg",
-          "altText": "MATCHA MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "MATCHA MILKTEA"
         },
         {
           "url": "/assets/products/milktea/Milktea group pic 2.jpg",
-          "altText": "MATCHA MILKTEA",
-          "width": 1000,
-          "height": 1000
+          "altText": "MATCHA MILKTEA"
         }
       ],
       "variants": [],
@@ -3178,15 +2766,11 @@
       "images": [
         {
           "url": "/assets/products/coffee/Americano (bottle).JPG",
-          "altText": "AMERICANO",
-          "width": 1000,
-          "height": 1000
+          "altText": "AMERICANO"
         },
         {
           "url": "/assets/products/coffee/Coffee group pic 1.JPG",
-          "altText": "AMERICANO",
-          "width": 1000,
-          "height": 1000
+          "altText": "AMERICANO"
         }
       ],
       "variants": [],
@@ -3208,15 +2792,11 @@
       "images": [
         {
           "url": "/assets/products/coffee/Mocha (bottle).JPG",
-          "altText": "MOCHA",
-          "width": 1000,
-          "height": 1000
+          "altText": "MOCHA"
         },
         {
           "url": "/assets/products/coffee/Coffee group pic 1.JPG",
-          "altText": "MOCHA",
-          "width": 1000,
-          "height": 1000
+          "altText": "MOCHA"
         }
       ],
       "variants": [],
@@ -3238,15 +2818,11 @@
       "images": [
         {
           "url": "/assets/products/coffee/Latte (bottle).JPG",
-          "altText": "LATTE",
-          "width": 1000,
-          "height": 1000
+          "altText": "LATTE"
         },
         {
           "url": "/assets/products/coffee/Coffee group pic 1.JPG",
-          "altText": "LATTE",
-          "width": 1000,
-          "height": 1000
+          "altText": "LATTE"
         }
       ],
       "variants": [],
@@ -3268,15 +2844,11 @@
       "images": [
         {
           "url": "/assets/products/coffee/Macchiato (bottle).JPG",
-          "altText": "MACCHIATO",
-          "width": 1000,
-          "height": 1000
+          "altText": "MACCHIATO"
         },
         {
           "url": "/assets/products/coffee/Coffee group pic 1.JPG",
-          "altText": "MACCHIATO",
-          "width": 1000,
-          "height": 1000
+          "altText": "MACCHIATO"
         }
       ],
       "variants": [],
@@ -3298,15 +2870,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/(Glossy) top coat.jpg",
-          "altText": "Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Top Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Top Coat"
         }
       ],
       "variants": [],
@@ -3328,15 +2896,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/Matte top coat.jpg",
-          "altText": "Matte Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Matte Top Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Matte Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Matte Top Coat"
         }
       ],
       "variants": [],
@@ -3358,15 +2922,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/Tinted base coat.jpg",
-          "altText": "Tinted Base Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Tinted Base Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Tinted Base Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Tinted Base Coat"
         }
       ],
       "variants": [],
@@ -3388,15 +2948,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/(Glossy) top coat.jpg",
-          "altText": "Scented Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Scented Top Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Scented Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Scented Top Coat"
         }
       ],
       "variants": [],
@@ -3418,15 +2974,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/Matte top coat.jpg",
-          "altText": "Scented Matte Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Scented Matte Top Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Scented Matte Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Scented Matte Top Coat"
         }
       ],
       "variants": [],
@@ -3448,15 +3000,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/Tinted base coat.jpg",
-          "altText": "Scented Tinted Base Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Scented Tinted Base Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Scented Tinted Base Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Scented Tinted Base Coat"
         }
       ],
       "variants": [],
@@ -3478,15 +3026,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/Rose quartz top coat.jpg",
-          "altText": "Rose Quartz Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Rose Quartz Top Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Rose Quartz Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Rose Quartz Top Coat"
         }
       ],
       "variants": [],
@@ -3508,15 +3052,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/Jade top coat.jpg",
-          "altText": "Jade Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Jade Top Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Jade Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Jade Top Coat"
         }
       ],
       "variants": [],
@@ -3538,15 +3078,11 @@
       "images": [
         {
           "url": "/assets/products/essentials/Amethyst top coat.jpg",
-          "altText": "Amethyst Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Amethyst Top Coat"
         },
         {
           "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
-          "altText": "Amethyst Top Coat",
-          "width": 1000,
-          "height": 1000
+          "altText": "Amethyst Top Coat"
         }
       ],
       "variants": [],
@@ -3568,9 +3104,7 @@
       "images": [
         {
           "url": "/assets/products/cocktail-i/Martini (swatch 1).jpeg",
-          "altText": "MARTINI",
-          "width": 1000,
-          "height": 1000
+          "altText": "MARTINI"
         }
       ],
       "variants": [],
@@ -3592,9 +3126,7 @@
       "images": [
         {
           "url": "/assets/products/cocktail-i/Blue Lagoon (swatch).jpg",
-          "altText": "BLUE LAGOON",
-          "width": 1000,
-          "height": 1000
+          "altText": "BLUE LAGOON"
         }
       ],
       "variants": [],
@@ -3616,9 +3148,7 @@
       "images": [
         {
           "url": "/assets/products/cocktail-i/Margarita (swatch 1).jpeg",
-          "altText": "MARGARITA",
-          "width": 1000,
-          "height": 1000
+          "altText": "MARGARITA"
         }
       ],
       "variants": [],
@@ -3640,9 +3170,7 @@
       "images": [
         {
           "url": "/assets/products/cocktail-i/Cosmopolitan (swatch 1).jpeg",
-          "altText": "COSMOPOLITAN",
-          "width": 1000,
-          "height": 1000
+          "altText": "COSMOPOLITAN"
         }
       ],
       "variants": [],
@@ -3664,9 +3192,7 @@
       "images": [
         {
           "url": "/assets/products/cocktail-i/Screwdriver (swatch).jpg",
-          "altText": "SCREWDRIVER",
-          "width": 1000,
-          "height": 1000
+          "altText": "SCREWDRIVER"
         }
       ],
       "variants": [],
@@ -3688,9 +3214,7 @@
       "images": [
         {
           "url": "/assets/products/miscellaneous/Nail polish solvent_thinner (10ml).jpg",
-          "altText": "Thinner",
-          "width": 1000,
-          "height": 1000
+          "altText": "Thinner"
         }
       ],
       "variants": [],
@@ -3712,9 +3236,7 @@
       "images": [
         {
           "url": "/assets/products/miscellaneous/DIY Nail Polish Kit.jpg",
-          "altText": "DIY Nail Polish Kit",
-          "width": 1000,
-          "height": 1000
+          "altText": "DIY Nail Polish Kit"
         }
       ],
       "variants": [],
@@ -3736,15 +3258,11 @@
       "images": [
         {
           "url": "/assets/products/nail-art/sailor-moon-stamping-plate.jpg",
-          "altText": "Sailor Moon Nail Art Stamping Plate",
-          "width": 1000,
-          "height": 1000
+          "altText": "Sailor Moon Nail Art Stamping Plate"
         },
         {
           "url": "/assets/products/nail-art/stamping-plates-group.jpg",
-          "altText": "Sailor Moon Nail Art Stamping Plate",
-          "width": 1000,
-          "height": 1000
+          "altText": "Sailor Moon Nail Art Stamping Plate"
         }
       ],
       "variants": [],
@@ -3766,15 +3284,11 @@
       "images": [
         {
           "url": "/assets/products/nail-art/bts-stamping-plate.jpg",
-          "altText": "BTS Nail Art Stamping Plate",
-          "width": 1000,
-          "height": 1000
+          "altText": "BTS Nail Art Stamping Plate"
         },
         {
           "url": "/assets/products/nail-art/stamping-plates-group.jpg",
-          "altText": "BTS Nail Art Stamping Plate",
-          "width": 1000,
-          "height": 1000
+          "altText": "BTS Nail Art Stamping Plate"
         }
       ],
       "variants": [],
@@ -3796,15 +3310,11 @@
       "images": [
         {
           "url": "/assets/products/nail-art/blackpink-stamping-plate.jpg",
-          "altText": "Blackpink Nail Art Stamping Plate",
-          "width": 1000,
-          "height": 1000
+          "altText": "Blackpink Nail Art Stamping Plate"
         },
         {
           "url": "/assets/products/nail-art/stamping-plates-group.jpg",
-          "altText": "Blackpink Nail Art Stamping Plate",
-          "width": 1000,
-          "height": 1000
+          "altText": "Blackpink Nail Art Stamping Plate"
         }
       ],
       "variants": [],
