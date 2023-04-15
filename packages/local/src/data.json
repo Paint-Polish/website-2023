@@ -15,6 +15,10 @@
       "shopeeUrl": "Paint-Polish-Nail-Polish-Soiree-Soiree-Collection-Burnt-Red-Gold-Holo-i.804257685.17994183625",
       "images": [
         {
+          "url": "/assets/products/soiree/soiree-dark.jpg",
+          "altText": "SOIREE"
+        },
+        {
           "url": "/assets/products/soiree/soiree.jpg",
           "altText": "SOIREE"
         },
@@ -40,6 +44,10 @@
       "lazadaUrl": "paint-polish-nail-polish-the-fifth-soiree-collection-white-red-glazed-donut-i3722589579.html",
       "shopeeUrl": "Paint-Polish-Nail-Polish-The-Fifth-Soiree-Collection-White-Red-Glazed-Donut-i.804257685.20478352186",
       "images": [
+        {
+          "url": "/assets/products/soiree/the-fifth-dark.jpg",
+          "altText": "THE FIFTH"
+        },
         {
           "url": "/assets/products/soiree/the-fifth.jpg",
           "altText": "THE FIFTH"
@@ -92,6 +100,10 @@
       "lazadaUrl": "paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
       "shopeeUrl": "Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
       "images": [
+        {
+          "url": "/assets/products/zodiac/taurus-dark.jpg",
+          "altText": "TAURUS"
+        },
         {
           "url": "/assets/products/zodiac/taurus.jpg",
           "altText": "TAURUS"
@@ -275,6 +287,10 @@
       "shopeeUrl": "Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
       "images": [
         {
+          "url": "/assets/products/zodiac/sagittarius-dark.jpg",
+          "altText": "SAGITTARIUS"
+        },
+        {
           "url": "/assets/products/zodiac/sagittarius.jpg",
           "altText": "SAGITTARIUS"
         },
@@ -352,6 +368,10 @@
       "lazadaUrl": "paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
       "shopeeUrl": "Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
       "images": [
+        {
+          "url": "/assets/products/zodiac/pisces-dark.jpg",
+          "altText": "PISCES"
+        },
         {
           "url": "/assets/products/zodiac/pisces.jpg",
           "altText": "PISCES"
@@ -969,6 +989,10 @@
       "shopeeUrl": "Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
       "images": [
         {
+          "url": "/assets/products/love-verse/love-is-patient.jpg",
+          "altText": "LOVE IS PATIENT"
+        },
+        {
           "url": "/assets/products/love-verse/Love is Patient (magnetized, bottle).jpeg",
           "altText": "LOVE IS PATIENT"
         },
@@ -995,6 +1019,10 @@
       "shopeeUrl": "Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
       "images": [
         {
+          "url": "/assets/products/love-verse/love-is-kind.jpg",
+          "altText": "LOVE IS KIND"
+        },
+        {
           "url": "/assets/products/love-verse/Love is Kind (bottle).jpeg",
           "altText": "LOVE IS KIND"
         },
@@ -1020,6 +1048,10 @@
       "lazadaUrl": "paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
       "shopeeUrl": "Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
       "images": [
+        {
+          "url": "/assets/products/love-verse/love-protects.jpg",
+          "altText": "LOVE PROTECTS"
+        },
         {
           "url": "/assets/products/love-verse/Love Protects (bottle).jpeg",
           "altText": "LOVE PROTECTS"
@@ -1073,6 +1105,10 @@
       "shopeeUrl": "Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
       "images": [
         {
+          "url": "/assets/products/love-verse/love-hopes.jpg",
+          "altText": "LOVE HOPES"
+        },
+        {
           "url": "/assets/products/love-verse/Love Hopes (shade bottle).jpeg",
           "altText": "LOVE HOPES"
         },
@@ -1099,6 +1135,10 @@
       "shopeeUrl": "Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
       "images": [
         {
+          "url": "/assets/products/love-verse/love-perseveres.jpg",
+          "altText": "LOVE PERSEVERES"
+        },
+        {
           "url": "/assets/products/love-verse/Love Perseveres (Combined bottle).jpeg",
           "altText": "LOVE PERSEVERES"
         },
@@ -1124,6 +1164,10 @@
       "lazadaUrl": "paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
       "shopeeUrl": "Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
       "images": [
+        {
+          "url": "/assets/products/love-verse/love-never-fails.jpg",
+          "altText": "LOVE NEVER FAILS"
+        },
         {
           "url": "/assets/products/love-verse/Love Never Fails (bottle).jpeg",
           "altText": "LOVE NEVER FAILS"
@@ -1385,6 +1429,10 @@
       "shopeeUrl": "Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
       "images": [
         {
+          "url": "/assets/products/holoday/monday.jpg",
+          "altText": "MONDAY"
+        },
+        {
           "url": "/assets/products/holoday/Monday (bottle).jpeg",
           "altText": "MONDAY"
         },
@@ -1411,6 +1459,10 @@
       "shopeeUrl": "Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
       "images": [
         {
+          "url": "/assets/products/holoday/tuesday.jpg",
+          "altText": "TUESDAY"
+        },
+        {
           "url": "/assets/products/holoday/Tuesday (bottle).jpeg",
           "altText": "TUESDAY"
         },
@@ -1436,6 +1488,10 @@
       "lazadaUrl": "paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
       "shopeeUrl": "Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
       "images": [
+        {
+          "url": "/assets/products/holoday/wednesday.jpg",
+          "altText": "WEDNESDAY"
+        },
         {
           "url": "/assets/products/holoday/Wednesday (bottle).jpeg",
           "altText": "WEDNESDAY"
@@ -1567,6 +1623,10 @@
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
         {
+          "url": "/assets/products/goddess/artemis.jpg",
+          "altText": "ARTEMIS"
+        },
+        {
           "url": "/assets/products/goddess/Artemis (bottle).JPG",
           "altText": "ARTEMIS"
         },
@@ -1592,6 +1652,10 @@
       "lazadaUrl": "paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
+        {
+          "url": "/assets/products/goddess/aphrodite.jpg",
+          "altText": "APHRODITE"
+        },
         {
           "url": "/assets/products/goddess/Aphrodite (bottle).JPG",
           "altText": "APHRODITE"
@@ -1619,6 +1683,10 @@
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
         {
+          "url": "/assets/products/goddess/aura.jpg",
+          "altText": "AURA"
+        },
+        {
           "url": "/assets/products/goddess/Aura (bottle).JPG",
           "altText": "AURA"
         },
@@ -1644,6 +1712,10 @@
       "lazadaUrl": "paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
+        {
+          "url": "/assets/products/goddess/chloris.jpg",
+          "altText": "CHLORIS"
+        },
         {
           "url": "/assets/products/goddess/Chloris (bottle).JPG",
           "altText": "CHLORIS"
@@ -1671,6 +1743,10 @@
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
         {
+          "url": "/assets/products/goddess/daphne.jpg",
+          "altText": "DAPHNE"
+        },
+        {
           "url": "/assets/products/goddess/Daphne (bottle).JPG",
           "altText": "DAPHNE"
         },
@@ -1696,6 +1772,10 @@
       "lazadaUrl": "paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
+        {
+          "url": "/assets/products/goddess/hemera.jpg",
+          "altText": "HEMERA"
+        },
         {
           "url": "/assets/products/goddess/Hemera (bottle).JPG",
           "altText": "HEMERA"
@@ -1723,6 +1803,10 @@
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
         {
+          "url": "/assets/products/goddess/iris.jpg",
+          "altText": "IRIS"
+        },
+        {
           "url": "/assets/products/goddess/Iris (bottle).JPG",
           "altText": "IRIS"
         },
@@ -1749,6 +1833,10 @@
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
         {
+          "url": "/assets/products/goddess/nyx.jpg",
+          "altText": "NYX"
+        },
+        {
           "url": "/assets/products/goddess/Nyx (bottle).JPG",
           "altText": "NYX"
         },
@@ -1774,6 +1862,10 @@
       "lazadaUrl": "paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
       "shopeeUrl": "Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
       "images": [
+        {
+          "url": "/assets/products/goddess/selene.jpg",
+          "altText": "SELENE"
+        },
         {
           "url": "/assets/products/goddess/Selene (bottle).JPG",
           "altText": "SELENE"
@@ -1826,6 +1918,10 @@
       "lazadaUrl": "paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
       "shopeeUrl": "Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
       "images": [
+        {
+          "url": "/assets/products/wizarding-world/the-wise.jpg",
+          "altText": "THE WISE"
+        },
         {
           "url": "/assets/products/wizarding-world/The Wise (magnetized, swatch 2).jpeg",
           "altText": "THE WISE"
@@ -1957,6 +2053,10 @@
       "shopeeUrl": "Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
       "images": [
         {
+          "url": "/assets/products/army/borahae.jpg",
+          "altText": "BORAHAE"
+        },
+        {
           "url": "/assets/products/army/borahae (bottle).JPG",
           "altText": "BORAHAE"
         },
@@ -1982,6 +2082,10 @@
       "lazadaUrl": "paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
       "shopeeUrl": "Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
       "images": [
+        {
+          "url": "/assets/products/army/kookie.jpg",
+          "altText": "KOOKIE"
+        },
         {
           "url": "/assets/products/army/kookie (bottle).JPG",
           "altText": "KOOKIE"
@@ -2061,6 +2165,10 @@
       "shopeeUrl": "Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
       "images": [
         {
+          "url": "/assets/products/army/taetae.jpg",
+          "altText": "TAETAE"
+        },
+        {
           "url": "/assets/products/army/taetae (bottle).JPG",
           "altText": "TAETAE"
         },
@@ -2087,6 +2195,10 @@
       "shopeeUrl": "Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
       "images": [
         {
+          "url": "/assets/products/army/wwh.jpg",
+          "altText": "WWH"
+        },
+        {
           "url": "/assets/products/army/WWH (bottle).JPG",
           "altText": "WWH"
         },
@@ -2112,6 +2224,10 @@
       "lazadaUrl": "paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
       "shopeeUrl": "Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
       "images": [
+        {
+          "url": "/assets/products/army/hobi.jpg",
+          "altText": "HOBI"
+        },
         {
           "url": "/assets/products/army/hobi (bottle).JPG",
           "altText": "HOBI"
@@ -2165,6 +2281,10 @@
       "shopeeUrl": "Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
       "images": [
         {
+          "url": "/assets/products/ethereal/dewdrop.jpg",
+          "altText": "DEWDROP"
+        },
+        {
           "url": "/assets/products/ethereal/Dewdrop (bottle).jpg",
           "altText": "DEWDROP"
         },
@@ -2217,6 +2337,10 @@
       "shopeeUrl": "Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
       "images": [
         {
+          "url": "/assets/products/ethereal/oasis.jpg",
+          "altText": "OASIS"
+        },
+        {
           "url": "/assets/products/ethereal/Oasis (bottle).jpg",
           "altText": "OASIS"
         },
@@ -2242,6 +2366,10 @@
       "lazadaUrl": "paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
       "shopeeUrl": "Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
       "images": [
+        {
+          "url": "/assets/products/ethereal/halo.jpg",
+          "altText": "HALO"
+        },
         {
           "url": "/assets/products/ethereal/Halo (bottle).jpg",
           "altText": "HALO"
@@ -2294,6 +2422,10 @@
       "lazadaUrl": "paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
       "shopeeUrl": "Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
       "images": [
+        {
+          "url": "/assets/products/ethereal/prism.jpg",
+          "altText": "PRISM"
+        },
         {
           "url": "/assets/products/ethereal/Prism (over white, bottle, swatch).jpg",
           "altText": "PRISM"
@@ -2425,6 +2557,10 @@
       "shopeeUrl": "Paint-Polish-Ever-After-Collection-Nail-Polish-i.804257685.21016337083",
       "images": [
         {
+          "url": "/assets/products/ever-after/dance-with-fairies.jpg",
+          "altText": "DANCE WITH FAIRIES"
+        },
+        {
           "url": "/assets/products/ever-after/Dance with fairies (macro).JPG",
           "altText": "DANCE WITH FAIRIES"
         },
@@ -2450,6 +2586,10 @@
       "lazadaUrl": "paint-polish-ever-after-collection-nail-polish-i3108074993-s15361638027.html",
       "shopeeUrl": "Paint-Polish-Ever-After-Collection-Nail-Polish-i.804257685.21016337083",
       "images": [
+        {
+          "url": "/assets/products/ever-after/swim-with-mermaids.jpg",
+          "altText": "SWIM WITH MERMAIDS"
+        },
         {
           "url": "/assets/products/ever-after/Swim with mermaids (macro).JPG",
           "altText": "SWIM WITH MERMAIDS"
@@ -2503,6 +2643,10 @@
       "shopeeUrl": "Paint-Polish-Ever-After-Collection-Nail-Polish-i.804257685.21016337083",
       "images": [
         {
+          "url": "/assets/products/ever-after/chase-rainbows.jpg",
+          "altText": "CHASE RAINBOWS"
+        },
+        {
           "url": "/assets/products/ever-after/Chase Rainbows (bottle, swatch).JPG",
           "altText": "CHASE RAINBOWS"
         },
@@ -2551,8 +2695,12 @@
       "shopeeUrl": "Paint-Polish-Seasons-Collection-Nail-Polish-i.804257685.19916348633",
       "images": [
         {
-          "url": "/assets/products/seasons/Solstice (macro).jpg",
+          "url": "/assets/products/seasons/solstice.jpg",
           "altText": "SOLSTICE"
+        },
+        {
+          "url": "/assets/products/seasons/Solstice (macro).jpg",
+          "altText": "SOLSTICE MACRO"
         }
       ],
       "variants": [],
@@ -2765,6 +2913,10 @@
       "shopeeUrl": "Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
       "images": [
         {
+          "url": "/assets/products/coffee/americano.jpg",
+          "altText": "AMERICANO"
+        },
+        {
           "url": "/assets/products/coffee/Americano (bottle).JPG",
           "altText": "AMERICANO"
         },
@@ -2790,6 +2942,10 @@
       "lazadaUrl": "paint-polish-coffee-collection-nail-polish-i3108078588-s15361433862.html",
       "shopeeUrl": "Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
       "images": [
+        {
+          "url": "/assets/products/coffee/mocha.jpg",
+          "altText": "MOCHA"
+        },
         {
           "url": "/assets/products/coffee/Mocha (bottle).JPG",
           "altText": "MOCHA"
@@ -2817,6 +2973,10 @@
       "shopeeUrl": "Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
       "images": [
         {
+          "url": "/assets/products/coffee/latte.jpg",
+          "altText": "LATTE"
+        },
+        {
           "url": "/assets/products/coffee/Latte (bottle).JPG",
           "altText": "LATTE"
         },
@@ -2842,6 +3002,10 @@
       "lazadaUrl": "paint-polish-coffee-collection-nail-polish-i3108078588-s15361433862.html",
       "shopeeUrl": "Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
       "images": [
+        {
+          "url": "/assets/products/coffee/macchiato.jpg",
+          "altText": "MACCHIATO"
+        },
         {
           "url": "/assets/products/coffee/Macchiato (bottle).JPG",
           "altText": "MACCHIATO"
@@ -3168,6 +3332,10 @@
       "lazadaUrl": "paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273706.html",
       "shopeeUrl": "Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
       "images": [
+        {
+          "url": "/assets/products/cocktail-i/cosmopolitan.jpg",
+          "altText": "COSMOPOLITAN"
+        },
         {
           "url": "/assets/products/cocktail-i/Cosmopolitan (swatch 1).jpeg",
           "altText": "COSMOPOLITAN"
