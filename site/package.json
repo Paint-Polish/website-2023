@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "analyze": "BUNDLE_ANALYZE=both next build",
     "lint": "next lint",
@@ -36,6 +37,7 @@
     "lodash.random": "^3.2.0",
     "lodash.throttle": "^4.1.1",
     "next": "^13.0.4",
+    "next-sitemap": "^4.0.7",
     "next-themes": "^0.2.0",
     "postcss": "^8.3.5",
     "postcss-nesting": "^10.1.10",
