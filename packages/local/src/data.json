@@ -1,244 +1,3814 @@
 {
   "products": [
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "New Short Sleeve T-Shirt",
-      "vendor": "Next.js",
-      "path": "/new-short-sleeve-t-shirt",
-      "slug": "new-short-sleeve-t-shirt",
-      "price": { "value": 25, "currencyCode": "USD" },
-      "description": "Show off your love for Next.js and Vercel with this unique, limited edition t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made! All proceeds will be donated to charity.",
-      "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
+      "id": "961a9b22-5dac-4df9-85c8-b130dfadcc53",
+      "name": "SOIREE",
+      "categories": ["nail-polish"],
+      "collection": "soiree",
+      "vendor": "Paint Polish",
+      "path": "/soiree",
+      "slug": "soiree",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Soiree is from the Soiree Collection",
+      "descriptionHtml": "",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-nail-polish-soiree-soiree-collection-burnt-red-gold-holo-i3722639245.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Nail-Polish-Soiree-Soiree-Collection-Burnt-Red-Gold-Holo-i.804257685.17994183625",
       "images": [
         {
-          "url": "/assets/drop-shirt-0.png",
-          "altText": "Shirt",
+          "url": "/assets/products/soiree/soiree.jpg",
+          "altText": "SOIREE",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/drop-shirt-1.png",
-          "altText": "Shirt",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/drop-shirt-2.png",
-          "altText": "Shirt",
+          "url": "/assets/products/soiree/soiree-cover-photo.jpg",
+          "altText": "SOIREE",
           "width": 1000,
           "height": 1000
         }
       ],
-      "variants": [
-        {
-          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjAss=",
-          "name": "New Short Sleeve T-Shirt",
-          "sku": "new-short-sleeve-t-shirt",
-          "options": [
-            {
-              "__typename": "MultipleChoiceOption",
-              "id": "asd",
-              "displayName": "Size",
-              "values": [
-                {
-                  "label": "XL"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "options": [
-        {
-          "id": "option-color",
-          "displayName": "Color",
-          "values": [
-            {
-              "label": "color",
-              "hexColors": ["#222"]
-            }
-          ]
-        },
-        {
-          "id": "option-size",
-          "displayName": "Size",
-          "values": [
-            {
-              "label": "S"
-            },
-            {
-              "label": "M"
-            },
-            {
-              "label": "L"
-            }
-          ]
-        }
-      ]
+      "variants": [],
+      "options": []
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Qcm9ksdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Lightweight Jacket",
-      "vendor": "Next.js",
-      "path": "/lightweight-jacket",
-      "slug": "lightweight-jacket",
-      "price": { "value": 249.99, "currencyCode": "USD" },
-      "description": "Show off your love for Next.js and Vercel with this unique, limited edition t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made! All proceeds will be donated to charity.",
-      "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
+      "id": "53c4062d-604c-4496-a706-afb38a8d24d4",
+      "name": "THE FIFTH",
+      "categories": ["nail-polish"],
+      "collection": "soiree",
+      "vendor": "Paint Polish",
+      "path": "/the-fifth",
+      "slug": "the-fifth",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "THE FIFTH is a creamy white polish with a red shimmer, ala glazed donut.",
+      "descriptionHtml": "",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-nail-polish-the-fifth-soiree-collection-white-red-glazed-donut-i3722589579.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Nail-Polish-The-Fifth-Soiree-Collection-White-Red-Glazed-Donut-i.804257685.20478352186",
       "images": [
         {
-          "url": "/assets/lightweight-jacket-0.png",
-          "altText": "Lightweight Jacket",
+          "url": "/assets/products/soiree/the-fifth.jpg",
+          "altText": "THE FIFTH",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/lightweight-jacket-1.png",
-          "altText": "Lightweight Jacket",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/lightweight-jacket-2.png",
-          "altText": "Lightweight Jacket",
+          "url": "/assets/products/soiree/soiree-cover-photo.jpg",
+          "altText": "THE FIFTH",
           "width": 1000,
           "height": 1000
         }
       ],
-      "variants": [
-        {
-          "id": "Z2lkOid8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjAss=",
-          "name": "Lightweight Jacket",
-          "sku": "lightweight-jacket",
-          "options": [
-            {
-              "__typename": "MultipleChoiceOption",
-              "id": "asd",
-              "displayName": "Size",
-              "values": [
-                {
-                  "label": "XL"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "options": [
-        {
-          "id": "option-color",
-          "displayName": "Color",
-          "values": [
-            {
-              "label": "color",
-              "hexColors": ["#222"]
-            }
-          ]
-        },
-        {
-          "id": "option-size",
-          "displayName": "Size",
-          "values": [
-            {
-              "label": "S"
-            },
-            {
-              "label": "M"
-            },
-            {
-              "label": "L"
-            }
-          ]
-        }
-      ]
+      "variants": [],
+      "options": []
     },
     {
-      "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Shirt",
-      "vendor": "Next.js",
-      "path": "/shirt",
-      "slug": "shirt",
-      "price": { "value": 25, "currencyCode": "USD" },
-      "description": "Show off your love for Next.js and Vercel with this unique, limited edition t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made! All proceeds will be donated to charity.",
-      "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
+      "id": "450bce2f-d424-49e4-92f0-6e981c8f47b3",
+      "name": "ARIES",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/aries",
+      "slug": "aries",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♈️ ARIES (Ram) March 21 - April 19: Multichrome polish that shifts from orange to red to gold with hints of lime green at extreme angles.",
+      "descriptionHtml": "♈️ ARIES (Ram) March 21 - April 19: Multichrome polish that shifts from orange to red to gold with hints of lime green at extreme angles.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
       "images": [
         {
-          "url": "/assets/t-shirt-0.png",
-          "altText": "Shirt",
+          "url": "/assets/products/zodiac/aries.jpg",
+          "altText": "ARIES",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/t-shirt-1.png",
-          "altText": "Shirt",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/t-shirt-2.png",
-          "altText": "Shirt",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/t-shirt-3.png",
-          "altText": "Shirt",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/t-shirt-4.png",
-          "altText": "Shirt",
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "ARIES",
           "width": 1000,
           "height": 1000
         }
       ],
-      "variants": [
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "0bb3a8fc-df2d-4883-bcc4-7f4d0114c9d6",
+      "name": "TAURUS",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/taurus",
+      "slug": "taurus",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♉️ TAURUS (Bull) April 20 - May 20: Multichrome polish that shifts from purple to blue to green.",
+      "descriptionHtml": "♉️ TAURUS (Bull) April 20 - May 20: Multichrome polish that shifts from purple to blue to green.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Qcms9kdWN0LzU0NDczMjUwMjQ0MjAss=",
-          "name": "Shirt",
-          "sku": "shirt",
-          "options": [
-            {
-              "__typename": "MultipleChoiceOption",
-              "id": "asd",
-              "displayName": "Size",
-              "values": [
-                {
-                  "label": "XL"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "options": [
-        {
-          "id": "option-color",
-          "displayName": "Color",
-          "values": [
-            {
-              "label": "color",
-              "hexColors": ["#222"]
-            }
-          ]
+          "url": "/assets/products/zodiac/taurus.jpg",
+          "altText": "TAURUS",
+          "width": 1000,
+          "height": 1000
         },
         {
-          "id": "option-size",
-          "displayName": "Size",
-          "values": [
-            {
-              "label": "S"
-            },
-            {
-              "label": "M"
-            },
-            {
-              "label": "L"
-            }
-          ]
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "TAURUS",
+          "width": 1000,
+          "height": 1000
         }
-      ]
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "488dd72e-64de-411c-a66e-b61007702033",
+      "name": "GEMINI",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/gemini",
+      "slug": "gemini",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♊️ GEMINI (Twins) May 21 - June 20: Multichrome polish that shifts from blue to green to gold.",
+      "descriptionHtml": "♊️ GEMINI (Twins) May 21 - June 20: Multichrome polish that shifts from blue to green to gold.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/gemini.jpg",
+          "altText": "GEMINI",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "GEMINI",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "a2758833-bbeb-4e93-a232-bae27acf02fc",
+      "name": "CANCER",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/cancer",
+      "slug": "cancer",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♋️ CANCER (Crab) June 21 - July 22: Strong bright silver magnetic polish on a clear base. This can be used alone or on top of any base polish as an extra bling!",
+      "descriptionHtml": "♋️ CANCER (Crab) June 21 - July 22: Strong bright silver magnetic polish on a clear base. This can be used alone or on top of any base polish as an extra bling!",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/cancer.jpg",
+          "altText": "CANCER",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "CANCER",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "95598204-5b1a-42a5-9dc6-5d902d4977e6",
+      "name": "LEO",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/leo",
+      "slug": "leo",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "♌ LEO (Lion) July 23 - August 22: Bright tangerine orange polish with a golden shimmer.",
+      "descriptionHtml": "♌ LEO (Lion) July 23 - August 22: Bright tangerine orange polish with a golden shimmer.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/leo.jpg",
+          "altText": "LEO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "LEO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "b6c7f978-dc6c-4cda-93d0-95d1dd1685c6",
+      "name": "VIRGO",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/virgo",
+      "slug": "virgo",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "♍️ VIRGO (Virgin) August 23 - September 22: Rich earthy brown base with strong golden shimmer and green sparks.",
+      "descriptionHtml": "♍️ VIRGO (Virgin) August 23 - September 22: Rich earthy brown base with strong golden shimmer and green sparks.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/virgo.jpg",
+          "altText": "VIRGO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "VIRGO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "a2461af4-a2eb-4a2c-9bc6-3e3bae365624",
+      "name": "LIBRA",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/libra",
+      "slug": "libra",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♎️ LIBRA (Balance) September 23 - October 22: Multichrome magnetic polish that shifts from gold to red to fuchsia pink on black base.",
+      "descriptionHtml": "♎️ LIBRA (Balance) September 23 - October 22: Multichrome magnetic polish that shifts from gold to red to fuchsia pink on black base.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/libra.jpg",
+          "altText": "LIBRA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "LIBRA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "147c6728-e15a-4248-8983-b1bdda95f0e0",
+      "name": "SCORPIO",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/scorpio",
+      "slug": "scorpio",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♏️ SCORPIO (Scorpion) October 23 - November 21: Dark emerald green filled with scattered holographic powder and black microglitters.",
+      "descriptionHtml": "♏️ SCORPIO (Scorpion) October 23 - November 21: Dark emerald green filled with scattered holographic powder and black microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/scorpio.jpg",
+          "altText": "SCORPIO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "SCORPIO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "b2f1cb2b-a1e1-4f9b-97ff-7907023ee39e",
+      "name": "SAGITTARIUS",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/sagittarius",
+      "slug": "sagittarius",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♐️ SAGITTARIUS (Archer) November 22 - December 21: Multichrome polish that shifts from gold to red to violet.",
+      "descriptionHtml": "♐️ SAGITTARIUS (Archer) November 22 - December 21: Multichrome polish that shifts from gold to red to violet.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/sagittarius.jpg",
+          "altText": "SAGITTARIUS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "SAGITTARIUS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7b29838d-0fb3-45a6-b6e6-6679d0732db4",
+      "name": "CAPRICORN",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/capricorn",
+      "slug": "capricorn",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "♑️ CAPRICORN (Goat) December 22 - January 19: Purple shimmer on a gray base with scattered holographic powder.",
+      "descriptionHtml": "♑️ CAPRICORN (Goat) December 22 - January 19: Purple shimmer on a gray base with scattered holographic powder.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/capricorn.jpg",
+          "altText": "CAPRICORN",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "CAPRICORN",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "8c03298c-d418-4fca-a0b3-11269d878f00",
+      "name": "AQUARIUS",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/aquarius",
+      "slug": "aquarius",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♒️ Aquarius (Water-bearer) January 20 - February 18: Multichrome polish that shifts from sky blue to dark blue to fuchsia/violet.",
+      "descriptionHtml": "♒️ Aquarius (Water-bearer) January 20 - February 18: Multichrome polish that shifts from sky blue to dark blue to fuchsia/violet.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/aquarius.jpg",
+          "altText": "AQUARIUS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "AQUARIUS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "ffe5b4a7-2096-49c7-8b2c-2928fa2d16ba",
+      "name": "PISCES",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/pisces",
+      "slug": "pisces",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "♓️ PISCES (Fish) February 19 - March 20: Multichrome polish that shifts from teal to blue to purple to hints of gold at extreme angles.",
+      "descriptionHtml": "♓️ PISCES (Fish) February 19 - March 20: Multichrome polish that shifts from teal to blue to purple to hints of gold at extreme angles.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/pisces.jpg",
+          "altText": "PISCES",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "PISCES",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "1a6757d1-21e5-4c91-bea3-e3d013dbef02",
+      "name": "OPHIUCHUS",
+      "categories": ["nail-polish"],
+      "collection": "zodiac",
+      "vendor": "Paint Polish",
+      "path": "/ophiuchus",
+      "slug": "ophiuchus",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "OPHIUCHUS (Serpent-bearer; the 13th or forgotten constellation of the zodiac) November 29-December 18: Multichrome polish that shifts from green to gold to fuchsia red.",
+      "descriptionHtml": "OPHIUCHUS (Serpent-bearer; the 13th or forgotten constellation of the zodiac) November 29-December 18: Multichrome polish that shifts from green to gold to fuchsia red.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-zodiac-collection-nail-polish-i3111341875-s15384136147.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Zodiac-Collection-Nail-Polish-i.804257685.20916355289",
+      "images": [
+        {
+          "url": "/assets/products/zodiac/ophiuchus.jpg",
+          "altText": "OPHIUCHUS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/zodiac/zodiac-cover-photo.jpg",
+          "altText": "OPHIUCHUS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7cc734ea-48cd-46e0-8fc3-28fe82d93f7a",
+      "name": "Cuticle Oil",
+      "categories": ["nail-care"],
+      "collection": "nail care",
+      "vendor": "Paint Polish",
+      "path": "/cuticle-oil",
+      "slug": "cuticle-oil",
+      "price": { "value": 110, "currencyCode": "PHP" },
+      "description": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips.",
+      "descriptionHtml": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cuticle-oil-roll-on-shimmer-nail-care-skincare-i3108242330-s15361851095.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cuticle-Oil-Roll-on-Shimmer-Nail-Care-Skincare-i.804257685.18016360554",
+      "images": [
+        {
+          "url": "/assets/products/nail-care/Cuticle oil 3.jpg",
+          "altText": "Cuticle Oil",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/nail-care/Cuticle oil both 5.jpg",
+          "altText": "Cuticle Oil",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "dcdf52f8-db38-49d2-aabd-b676d805d6f9",
+      "name": "Cuticle Oil with Shimmer",
+      "categories": ["nail-care"],
+      "collection": "nail care",
+      "vendor": "Paint Polish",
+      "path": "/cuticle-oil-with-shimmer",
+      "slug": "cuticle-oil-with-shimmer",
+      "price": { "value": 110, "currencyCode": "PHP" },
+      "description": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips. Shimmers will fall to the bottom of the bottle because oils (unlike polish) do not have pigment-suspending abilities, just shake it when that happens.",
+      "descriptionHtml": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips. Shimmers will fall to the bottom of the bottle because oils (unlike polish) do not have pigment-suspending abilities, just shake it when that happens.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cuticle-oil-roll-on-shimmer-nail-care-skincare-i3108242330-s15361851095.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cuticle-Oil-Roll-on-Shimmer-Nail-Care-Skincare-i.804257685.18016360554",
+      "images": [
+        {
+          "url": "/assets/products/nail-care/Cuticle oil with shimmer 3.jpg",
+          "altText": "Cuticle Oil with Shimmer",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/nail-care/Cuticle oil both 5.jpg",
+          "altText": "Cuticle Oil with Shimmer",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7e34e369-f40a-4557-85f8-e9e60d3d3b67",
+      "name": "Cuticle Cream",
+      "categories": ["nail-care"],
+      "collection": "nail care",
+      "vendor": "Paint Polish",
+      "path": "/cuticle-cream",
+      "slug": "cuticle-cream",
+      "price": { "value": 200, "currencyCode": "PHP" },
+      "description": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips. For external use only.",
+      "descriptionHtml": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips. For external use only.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cuticle-cream-i3321840488-s16884807347.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cuticle-Cream-Hand-Creme-Body-Lotion-Shaving-Cream-i.804257685.16584648417",
+      "images": [
+        {
+          "url": "/assets/products/nail-care/cuticle-cream.jpg",
+          "altText": "Cuticle Cream",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "e7d1786c-5b61-4824-8739-24484c8f9bb2",
+      "name": "Cuticle Scrub",
+      "categories": ["nail-care"],
+      "collection": "nail care",
+      "vendor": "Paint Polish",
+      "path": "/cuticle-scrub",
+      "slug": "cuticle-scrub",
+      "price": { "value": 200, "currencyCode": "PHP" },
+      "description": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips. For external use only.",
+      "descriptionHtml": "These are formulated to be lightweight and quick-absorbing moisturizers. Although formulated with cuticles in mind, these may also be used in any part of the body EXCEPT face and lips. For external use only.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cuticle-scrub-i3322015264-s16884728814.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cuticle-Sugar-Scrub-Exfoliating-Bath-i.804257685.19743605723",
+      "images": [
+        {
+          "url": "/assets/products/nail-care/cuticle-scrub.jpg",
+          "altText": "Cuticle Scrub",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "c30ab143-6fc6-43d2-a01c-3d02f96dfdc8",
+      "name": "GO FIGHT! RED AND WHITE!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/go-fight!-red-and-white!",
+      "slug": "go-fight!-red-and-white!",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by UE. Bright metallic red base with reflective powder. Dries textured.",
+      "descriptionHtml": "Inspired by UE. Bright metallic red base with reflective powder. Dries textured.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/UE (reflect flash).jpeg",
+          "altText": "GO FIGHT! RED AND WHITE!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "GO FIGHT! RED AND WHITE!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9b4c0430-3ea0-4a50-88a4-425b021ec3f9",
+      "name": "A-D-U! WHITE AND BLUE!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/a-d-u!-white-and-blue!",
+      "slug": "a-d-u!-white-and-blue!",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by Adamson University. Navy blue jelly base with holographic blue microglitters and reflective powder. Dries textured.",
+      "descriptionHtml": "Inspired by Adamson University. Navy blue jelly base with holographic blue microglitters and reflective powder. Dries textured.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/ADU (bottle 1).jpg",
+          "altText": "A-D-U! WHITE AND BLUE!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "A-D-U! WHITE AND BLUE!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "cd23b67f-cedc-40ef-b249-3234f958e391",
+      "name": "LET’S GO TAMARAWS!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/let’s-go-tamaraws!",
+      "slug": "let’s-go-tamaraws!",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "Inspired by FEU. Yellow jelly base with green reflective microglitters and reflective powder. Dries textured.",
+      "descriptionHtml": "Inspired by FEU. Yellow jelly base with green reflective microglitters and reflective powder. Dries textured.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/FEU (bottle 2).jpg",
+          "altText": "LET’S GO TAMARAWS!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "LET’S GO TAMARAWS!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "142a8185-ac17-47ba-9acb-bd8dd5870fc7",
+      "name": "GO USTE!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/go-uste!",
+      "slug": "go-uste!",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by UST. Yellow shimmer one-coater polish with matte black bar glitters.",
+      "descriptionHtml": "Inspired by UST. Yellow shimmer one-coater polish with matte black bar glitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/UST Bottle.jpg",
+          "altText": "GO USTE!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "GO USTE!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "f7e4fb8d-d05f-4f21-9c60-337bec65bfb6",
+      "name": "UP FIGHT!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/up-fight!",
+      "slug": "up-fight!",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Maroon base with green magnetic pigments. Unmagnetized, it is a unique contrasting shimmer polish. Magnetizing it will reveal the 2 distinct colors.",
+      "descriptionHtml": "Maroon base with green magnetic pigments. Unmagnetized, it is a unique contrasting shimmer polish. Magnetizing it will reveal the 2 distinct colors.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/UP_magnetized_bottle1.jpg",
+          "altText": "UP FIGHT!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "UP FIGHT!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "abbd9375-6e18-4f2e-9aaf-65103752fdfb",
+      "name": "ONE BIG FIGHT!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/one-big-fight!",
+      "slug": "one-big-fight!",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by Ateneo. Royal blue metallic polish with subtle scattered holographic powder.",
+      "descriptionHtml": "Inspired by Ateneo. Royal blue metallic polish with subtle scattered holographic powder.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/Ateneo (bottle A).jpg",
+          "altText": "ONE BIG FIGHT!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "ONE BIG FIGHT!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3973c219-9d71-432d-b4db-52dd6e3fbd87",
+      "name": "ANIMO LA SALLE!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/animo-la-salle!",
+      "slug": "animo-la-salle!",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by DLSU. Green jelly base packed with silver-green flecks.",
+      "descriptionHtml": "Inspired by DLSU. Green jelly base packed with silver-green flecks.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/DLSU bottle.jpeg",
+          "altText": "ANIMO LA SALLE!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "ANIMO LA SALLE!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "bd5e10ad-57bc-468f-bda2-8c8087e5b09f",
+      "name": "HEY! NU! LET’S GO!",
+      "categories": ["nail-polish"],
+      "collection": "campus",
+      "vendor": "Paint Polish",
+      "path": "/hey!-nu!-let’s-go!",
+      "slug": "hey!-nu!-let’s-go!",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by NU. Denim blue jelly base packed with blue-gold flecks.",
+      "descriptionHtml": "Inspired by NU. Denim blue jelly base packed with blue-gold flecks.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-campus-collection-nail-polish-i3111439129.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Campus-Collection-Nail-Polish-i.804257685.21616354818",
+      "images": [
+        {
+          "url": "/assets/products/campus/NU - bottle 1.jpg",
+          "altText": "HEY! NU! LET’S GO!",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/campus/cover photo.jpg",
+          "altText": "HEY! NU! LET’S GO!",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "d8876330-98e8-47ab-adc8-c03d03bcea1f",
+      "name": "MORSMORDRE",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/morsmordre",
+      "slug": "morsmordre",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "MORSMORDRE is an emerald green magnetic polish on teal base. Unmagnetized, it has a blue/green/teal shift.",
+      "descriptionHtml": "MORSMORDRE is an emerald green magnetic polish on teal base. Unmagnetized, it has a blue/green/teal shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Charms - Morsmordre (bottle, magnetized).jpg",
+          "altText": "MORSMORDRE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "MORSMORDRE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7a5d5e4a-df6e-4829-99ad-b8aabdfdb638",
+      "name": "EXPELLIARMUS",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/expelliarmus",
+      "slug": "expelliarmus",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "EXPELLIARMUS is an olive green magnetic polish on teal base. Unmagnetized, it has a green/yellow/teal shift.",
+      "descriptionHtml": "EXPELLIARMUS is an olive green magnetic polish on teal base. Unmagnetized, it has a green/yellow/teal shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Charms - Expelliarmus (bottle, magnetized).jpg",
+          "altText": "EXPELLIARMUS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "EXPELLIARMUS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "22ae24e2-6a0c-4c3c-9be4-4c6e06080e21",
+      "name": "ALOHAMORA",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/alohamora",
+      "slug": "alohamora",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "ALOHAMORA is a violet magnetic polish on purple base. Unmagnetized, it shifts with shades of purple.",
+      "descriptionHtml": "ALOHAMORA is a violet magnetic polish on purple base. Unmagnetized, it shifts with shades of purple.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Charms - Alohamora (bottle, magnetized).jpg",
+          "altText": "ALOHAMORA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "ALOHAMORA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "056b2b2e-5827-4e4a-bafb-931537bb3dda",
+      "name": "EXPECTO PATRONUM",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/expecto-patronum",
+      "slug": "expecto-patronum",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "EXPECTO PATRONUM is a teal blue magnetic polish on a darker teal base. Unmagnetized, it shifts with shades of blue.",
+      "descriptionHtml": "EXPECTO PATRONUM is a teal blue magnetic polish on a darker teal base. Unmagnetized, it shifts with shades of blue.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Charms - Expecto Patronum (bottle, magnetized).jpg",
+          "altText": "EXPECTO PATRONUM",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "EXPECTO PATRONUM",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "8053978d-539c-4431-9188-98eb1e42b4f4",
+      "name": "WINGARDIUM LEVIOSA",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/wingardium-leviosa",
+      "slug": "wingardium-leviosa",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "WINGARDIUM LEVIOSA is a magenta magnetic polish on a purple base. Unmagnetized, it has a pink/magenta/purple shift.",
+      "descriptionHtml": "WINGARDIUM LEVIOSA is a magenta magnetic polish on a purple base. Unmagnetized, it has a pink/magenta/purple shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Charms - Wingardium Leviosa (bottle, magnetized).jpeg",
+          "altText": "WINGARDIUM LEVIOSA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "WINGARDIUM LEVIOSA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "98bf54bb-9514-4e1d-ac3a-100be501e869",
+      "name": "PETRIFICUS TOTALUS",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/petrificus-totalus",
+      "slug": "petrificus-totalus",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "PETRIFICUS TOTALUS is a bright blue magnetic polish on purple base. Unmagnetized, it has a blue/purple/pink shift.",
+      "descriptionHtml": "PETRIFICUS TOTALUS is a bright blue magnetic polish on purple base. Unmagnetized, it has a blue/purple/pink shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Curses - Petrificus Totalus (magnetized).jpg",
+          "altText": "PETRIFICUS TOTALUS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "PETRIFICUS TOTALUS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "2170e59a-788c-49af-a324-6e78da0c7ca6",
+      "name": "CRUCIO",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/crucio",
+      "slug": "crucio",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "CRUCIO is a silver green magnetic polish on purple base. Unmagnetized, it has a blue/green/purple shift.",
+      "descriptionHtml": "CRUCIO is a silver green magnetic polish on purple base. Unmagnetized, it has a blue/green/purple shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Curses - Crucio (magnetized).jpg",
+          "altText": "CRUCIO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "CRUCIO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "c57d9cf3-fa43-47a0-8abf-2ba4ab8323be",
+      "name": "SECTUMSEMPRA",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/sectumsempra",
+      "slug": "sectumsempra",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SECTUMSEMPRA is a copper magnetic polish on purple base. Unmagnetized, it has a copper/purple shift.",
+      "descriptionHtml": "SECTUMSEMPRA is a copper magnetic polish on purple base. Unmagnetized, it has a copper/purple shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Curses - Sectumsempra (magnetized).jpg",
+          "altText": "SECTUMSEMPRA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "SECTUMSEMPRA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3a8e84fb-bc1e-46e3-b93a-744a5e8ef571",
+      "name": "AVADA KEDAVRA",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/avada-kedavra",
+      "slug": "avada-kedavra",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "AVADA KEDAVRA is a silver magnetic polish on teal base. Unmagnetized, it has a green/purple/teal shift.",
+      "descriptionHtml": "AVADA KEDAVRA is a silver magnetic polish on teal base. Unmagnetized, it has a green/purple/teal shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Curses - Avada Kedavra (magnetized).jpg",
+          "altText": "AVADA KEDAVRA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "AVADA KEDAVRA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9c098762-6f9b-40d4-81b3-e2248e2aecf8",
+      "name": "IMPERIO",
+      "categories": ["nail-polish"],
+      "collection": "spells",
+      "vendor": "Paint Polish",
+      "path": "/imperio",
+      "slug": "imperio",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "IMPERIO is a purple magnetic polish on teal base. Unmagnetized, it has a purple/teal shift.",
+      "descriptionHtml": "IMPERIO is a purple magnetic polish on teal base. Unmagnetized, it has a purple/teal shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/spells/Curses - Imperio (magnetized).jpg",
+          "altText": "IMPERIO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/spells/wizarding world teaser photo 2.jpg",
+          "altText": "IMPERIO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "e45c7031-f160-4092-ade8-ab51b0a8edd0",
+      "name": "LOVE IS PATIENT",
+      "categories": ["nail-polish"],
+      "collection": "love-verse",
+      "vendor": "Paint Polish",
+      "path": "/love-is-patient",
+      "slug": "love-is-patient",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "This is an old rose base with taffy pink magnetic shimmer and silver metallic flakes. When unmagnetized, it has a classy pink to gold duochrome shift.",
+      "descriptionHtml": "This is an old rose base with taffy pink magnetic shimmer and silver metallic flakes. When unmagnetized, it has a classy pink to gold duochrome shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
+      "images": [
+        {
+          "url": "/assets/products/love-verse/Love is Patient (magnetized, bottle).jpeg",
+          "altText": "LOVE IS PATIENT",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
+          "altText": "LOVE IS PATIENT",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "f78bbeb6-f0e0-42a5-9cf5-1e13cc3ac9e5",
+      "name": "LOVE IS KIND",
+      "categories": ["nail-polish"],
+      "collection": "love-verse",
+      "vendor": "Paint Polish",
+      "path": "/love-is-kind",
+      "slug": "love-is-kind",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "This is a Barbie pink base with a blush pink shimmer. Originally part of ethereal collection, this has the same formula.",
+      "descriptionHtml": "This is a Barbie pink base with a blush pink shimmer. Originally part of ethereal collection, this has the same formula.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
+      "images": [
+        {
+          "url": "/assets/products/love-verse/Love is Kind (bottle).jpeg",
+          "altText": "LOVE IS KIND",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
+          "altText": "LOVE IS KIND",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3c1fe55e-980a-4acb-8854-b97d7208b1b0",
+      "name": "LOVE PROTECTS",
+      "categories": ["nail-polish"],
+      "collection": "love-verse",
+      "vendor": "Paint Polish",
+      "path": "/love-protects",
+      "slug": "love-protects",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "This is a purple base with subtle pink & blue shimmer topped with purple microflakes that has a golden shift.",
+      "descriptionHtml": "This is a purple base with subtle pink & blue shimmer topped with purple microflakes that has a golden shift.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
+      "images": [
+        {
+          "url": "/assets/products/love-verse/Love Protects (bottle).jpeg",
+          "altText": "LOVE PROTECTS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
+          "altText": "LOVE PROTECTS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "a0541f9b-cd50-4807-8871-70d51ac84ac1",
+      "name": "LOVE TRUSTS",
+      "categories": ["nail-polish"],
+      "collection": "love-verse",
+      "vendor": "Paint Polish",
+      "path": "/love-trusts",
+      "slug": "love-trusts",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "This is a “very peri” polish dusted with subtle holographic powder. The perfect periwinkle pantone polish.",
+      "descriptionHtml": "This is a “very peri” polish dusted with subtle holographic powder. The perfect periwinkle pantone polish.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
+      "images": [
+        {
+          "url": "/assets/products/love-verse/Love Trusts (bottle).jpeg",
+          "altText": "LOVE TRUSTS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
+          "altText": "LOVE TRUSTS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "2610294c-779b-43c2-b696-44a529723670",
+      "name": "LOVE HOPES",
+      "categories": ["nail-polish"],
+      "collection": "love-verse",
+      "vendor": "Paint Polish",
+      "path": "/love-hopes",
+      "slug": "love-hopes",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Indoors, this is a milky white polish lavender to blue aurora microglitter. Outdoors with direct exposure to sunlight, the base transitions to pale daffodil yellow.",
+      "descriptionHtml": "Indoors, this is a milky white polish lavender to blue aurora microglitter. Outdoors with direct exposure to sunlight, the base transitions to pale daffodil yellow.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
+      "images": [
+        {
+          "url": "/assets/products/love-verse/Love Hopes (shade bottle).jpeg",
+          "altText": "LOVE HOPES",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
+          "altText": "LOVE HOPES",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "35a8b77f-d3ec-4f46-8272-f5a9aa523635",
+      "name": "LOVE PERSEVERES",
+      "categories": ["nail-polish"],
+      "collection": "love-verse",
+      "vendor": "Paint Polish",
+      "path": "/love-perseveres",
+      "slug": "love-perseveres",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "In the bottle at room temperature, this is a ruby red polish. Upon application on nail (warm body temperature), this transitions to a scarlet polish. When exposed to hot water, this turns to bright crimson red with pink undertones. When exposed to cold temperatures, this turns into a darker maroon shade.",
+      "descriptionHtml": "In the bottle at room temperature, this is a ruby red polish. Upon application on nail (warm body temperature), this transitions to a scarlet polish. When exposed to hot water, this turns to bright crimson red with pink undertones. When exposed to cold temperatures, this turns into a darker maroon shade.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
+      "images": [
+        {
+          "url": "/assets/products/love-verse/Love Perseveres (Combined bottle).jpeg",
+          "altText": "LOVE PERSEVERES",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
+          "altText": "LOVE PERSEVERES",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "dfb8ab87-c50c-4079-821c-e71a2b38ddc8",
+      "name": "LOVE NEVER FAILS",
+      "categories": ["nail-polish"],
+      "collection": "love-verse",
+      "vendor": "Paint Polish",
+      "path": "/love-never-fails",
+      "slug": "love-never-fails",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "Bright red polish filled to the brim with both holo flakes and holo powder.",
+      "descriptionHtml": "Bright red polish filled to the brim with both holo flakes and holo powder.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-love-verse-collection-nail-polish-i3108356504-s15363438148.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Love-Verse-Collection-Nail-Polish-i.804257685.18916344918",
+      "images": [
+        {
+          "url": "/assets/products/love-verse/Love Never Fails (bottle).jpeg",
+          "altText": "LOVE NEVER FAILS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/love-verse/Love Verse (group shot 1).jpeg",
+          "altText": "LOVE NEVER FAILS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9012ca05-4c14-4f41-942e-5b48c0dc056e",
+      "name": "AVIATION",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/aviation",
+      "slug": "aviation",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "AVIATION is a Purple jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "AVIATION is a Purple jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273703.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-ii/Aviation (bottle).jpeg",
+          "altText": "AVIATION",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
+          "altText": "AVIATION",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "59d35f8d-70c3-4ae5-9ebf-f73edccb7046",
+      "name": "BELLINI",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/bellini",
+      "slug": "bellini",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "BELLINI is a Light Orange jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "BELLINI is a Light Orange jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273703.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-ii/Bellini (bottle).jpeg",
+          "altText": "BELLINI",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
+          "altText": "BELLINI",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "5212b819-d5c6-4cfc-826f-bf4f23f40063",
+      "name": "BLACK MAGIC",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/black-magic",
+      "slug": "black-magic",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "BLACK MAGIC is a Black jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "BLACK MAGIC is a Black jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273703.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-ii/Black Magic (bottle).jpeg",
+          "altText": "BLACK MAGIC",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
+          "altText": "BLACK MAGIC",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "42336036-3b84-4b5f-a2ac-f148777397cc",
+      "name": "CAPPUCCINOTINI",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/cappuccinotini",
+      "slug": "cappuccinotini",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "CAPPUCCINOTINI is a Brown jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "CAPPUCCINOTINI is a Brown jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273703.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-ii/Cappuccinotini (bottle).jpeg",
+          "altText": "CAPPUCCINOTINI",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
+          "altText": "CAPPUCCINOTINI",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7d8dfa92-baed-4fa9-8979-296bec650762",
+      "name": "ROSE",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/rose",
+      "slug": "rose",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "ROSE is a Light Pink jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "ROSE is a Light Pink jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273703.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-ii/Rose (bottle).jpeg",
+          "altText": "ROSE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
+          "altText": "ROSE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "46e87d2d-9721-4ad5-8883-a4caa9aefec7",
+      "name": "SANGRIA",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/sangria",
+      "slug": "sangria",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SANGRIA is a Dark Red jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "SANGRIA is a Dark Red jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273703.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-ii/Sangria (bottle).jpeg",
+          "altText": "SANGRIA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/cocktail-ii/Cocktail collection II (group pic 1).jpeg",
+          "altText": "SANGRIA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7c9b17b7-a28a-49c7-8229-15bdf1fd4deb",
+      "name": "THANK YOU 2021",
+      "categories": ["nail-polish"],
+      "collection": "new-year-duo",
+      "vendor": "Paint Polish",
+      "path": "/thank-you-2021",
+      "slug": "thank-you-2021",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "THANK YOU 2021 is a silver metallic polish, opaque at 2 coats.",
+      "descriptionHtml": "THANK YOU 2021 is a silver metallic polish, opaque at 2 coats.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-new-year-duo-collection-nail-polish-i3108265978-s15363322120.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-New-Year-Duo-Collection-Nail-Polish-i.804257685.20216346296",
+      "images": [
+        {
+          "url": "/assets/products/new-year-duo/Thank you, 2021 (bottle).jpeg",
+          "altText": "THANK YOU 2021",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/new-year-duo/New year duo group pic 1.jpeg",
+          "altText": "THANK YOU 2021",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "200628af-4297-498c-b400-52a8812860dc",
+      "name": "CHEERS TO 2022",
+      "categories": ["nail-polish"],
+      "collection": "new-year-duo",
+      "vendor": "Paint Polish",
+      "path": "/cheers-to-2022",
+      "slug": "cheers-to-2022",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "CHEERS TO 2022 is a holographic flakie polish that is opaque on its own at 3 to 4 coats but is amazing when used in combination as a topper for its duo partner, THANK YOU 2021.",
+      "descriptionHtml": "CHEERS TO 2022 is a holographic flakie polish that is opaque on its own at 3 to 4 coats but is amazing when used in combination as a topper for its duo partner, THANK YOU 2021.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-new-year-duo-collection-nail-polish-i3108265978-s15363322120.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-New-Year-Duo-Collection-Nail-Polish-i.804257685.20216346296",
+      "images": [
+        {
+          "url": "/assets/products/new-year-duo/Cheers to 2022 (bottle).jpeg",
+          "altText": "CHEERS TO 2022",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/new-year-duo/New year duo group pic 1.jpeg",
+          "altText": "CHEERS TO 2022",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "b7e73508-9e78-42cc-9b69-7999c5b3d338",
+      "name": "EVERYDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/everyday",
+      "slug": "everyday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "EVERYDAY is a neutral polish filled with holographic microglitters.",
+      "descriptionHtml": "EVERYDAY is a neutral polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Everyday (bottle).jpeg",
+          "altText": "EVERYDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "EVERYDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "1fbc00e3-36eb-401f-b03d-871dc78993b9",
+      "name": "MONDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/monday",
+      "slug": "monday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "MONDAY is a Cerulean blue polish filled with holographic microglitters.",
+      "descriptionHtml": "MONDAY is a Cerulean blue polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Monday (bottle).jpeg",
+          "altText": "MONDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "MONDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9ec722cc-86e7-4ab8-8a65-aeab7e2179df",
+      "name": "TUESDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/tuesday",
+      "slug": "tuesday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "TUESDAY is an indigo polish filled with holographic microglitters.",
+      "descriptionHtml": "TUESDAY is an indigo polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Tuesday (bottle).jpeg",
+          "altText": "TUESDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "TUESDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "f2a7f45b-df13-4c5a-9e58-e466b1497c9d",
+      "name": "WEDNESDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/wednesday",
+      "slug": "wednesday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "WEDNESDAY is a violet jelly polish packed with holographic microglitters.",
+      "descriptionHtml": "WEDNESDAY is a violet jelly polish packed with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Wednesday (bottle).jpeg",
+          "altText": "WEDNESDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "WEDNESDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "40b9bd7c-2ddb-465e-844b-965be5f07ad1",
+      "name": "THURSDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/thursday",
+      "slug": "thursday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "THURSDAY is a bright green polish filled with holographic microglitters.",
+      "descriptionHtml": "THURSDAY is a bright green polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Thursday (bottle).jpeg",
+          "altText": "THURSDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "THURSDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "8af6237e-a247-4767-99d5-e74a48d2980c",
+      "name": "FRIDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/friday",
+      "slug": "friday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "FRIDAY is a red polish filled with holographic microglitters.",
+      "descriptionHtml": "FRIDAY is a red polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Friday (bottle).jpeg",
+          "altText": "FRIDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "FRIDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3d11cd6e-240e-4939-9115-1ba5fe93a9f9",
+      "name": "SATURDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/saturday",
+      "slug": "saturday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SATURDAY is an orange polish filled with holographic microglitters.",
+      "descriptionHtml": "SATURDAY is an orange polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Saturday (bottle).jpeg",
+          "altText": "SATURDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "SATURDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "34fb4c61-8dc9-4f93-b0a2-eacc87d949ed",
+      "name": "SUNDAY",
+      "categories": ["nail-polish"],
+      "collection": "holoday",
+      "vendor": "Paint Polish",
+      "path": "/sunday",
+      "slug": "sunday",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SUNDAY is a yellow polish filled with holographic microglitters.",
+      "descriptionHtml": "SUNDAY is a yellow polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-holoday-collection-nail-polish-i3108280839-s15363078624.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Holoday-Collection-Nail-Polish-i.804257685.20516341327",
+      "images": [
+        {
+          "url": "/assets/products/holoday/Sunday (bottle).jpeg",
+          "altText": "SUNDAY",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/holoday/Holoday group pic 2.jpeg",
+          "altText": "SUNDAY",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "edbfed50-f508-4d3f-a307-227634cb2a9a",
+      "name": "ARTEMIS",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/artemis",
+      "slug": "artemis",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "ARTEMIS, goddess of wilderness and hunt, is a mauve polish with a golden sheen.",
+      "descriptionHtml": "ARTEMIS, goddess of wilderness and hunt, is a mauve polish with a golden sheen.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Artemis (bottle).JPG",
+          "altText": "ARTEMIS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "ARTEMIS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "123fcac1-780b-4039-9010-75cf5775df9f",
+      "name": "APHRODITE",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/aphrodite",
+      "slug": "aphrodite",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "APHRODITE, goddess of love and beauty who was formed from white foam, is an aurora iridescent hexagonal and GITD glitters with on clear base.",
+      "descriptionHtml": "APHRODITE, goddess of love and beauty who was formed from white foam, is an aurora iridescent hexagonal and GITD glitters with on clear base.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Aphrodite (bottle).JPG",
+          "altText": "APHRODITE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "APHRODITE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3ded7fd9-a6a7-4a7c-83c7-5c9baeea1b1b",
+      "name": "AURA",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/aura",
+      "slug": "aura",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "AURA, goddess of the wind and breeze, is a sheer muted brown polish filled with scattered holographic powder pigments.",
+      "descriptionHtml": "AURA, goddess of the wind and breeze, is a sheer muted brown polish filled with scattered holographic powder pigments.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Aura (bottle).JPG",
+          "altText": "AURA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "AURA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9fec69cb-1d12-4fdf-8056-4fb481f94b0d",
+      "name": "CHLORIS",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/chloris",
+      "slug": "chloris",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "CHLORIS, goddess of flowers, is a pale pink polish with rose-red metallic microflakes.",
+      "descriptionHtml": "CHLORIS, goddess of flowers, is a pale pink polish with rose-red metallic microflakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Chloris (bottle).JPG",
+          "altText": "CHLORIS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "CHLORIS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "da273b44-aa59-46d0-a05d-761b1eea41b0",
+      "name": "DAPHNE",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/daphne",
+      "slug": "daphne",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "DAPHNE, a naiads nymph (minor goddesses of fountains and springs) who turned herself into a tree to protect her innocence and chastity, is a peachy-beige polish with a copper shimmer. Initially part of the Ethereal Collection, she fits in best with the neutral theme of this collection.",
+      "descriptionHtml": "DAPHNE, a naiads nymph (minor goddesses of fountains and springs) who turned herself into a tree to protect her innocence and chastity, is a peachy-beige polish with a copper shimmer. Initially part of the Ethereal Collection, she fits in best with the neutral theme of this collection.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Daphne (bottle).JPG",
+          "altText": "DAPHNE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "DAPHNE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "ca646286-e95b-4324-9e86-0cb7d730a3ea",
+      "name": "HEMERA",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/hemera",
+      "slug": "hemera",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "HEMERA, goddess of day, is a white polish filled with holographic microglitters.",
+      "descriptionHtml": "HEMERA, goddess of day, is a white polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Hemera (bottle).JPG",
+          "altText": "HEMERA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "HEMERA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "66f02b19-82a6-458e-84d9-91dc2b203f48",
+      "name": "IRIS",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/iris",
+      "slug": "iris",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "IRIS, goddess of rainbow, is a sheer peach polish packed with rainbow shimmers and rainbow flakes.",
+      "descriptionHtml": "IRIS, goddess of rainbow, is a sheer peach polish packed with rainbow shimmers and rainbow flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Iris (bottle).JPG",
+          "altText": "IRIS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "IRIS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "5dfb242a-960d-4f45-8433-cf0dcb2727b7",
+      "name": "NYX",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/nyx",
+      "slug": "nyx",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "NYX, goddess of night and darkness, is a black polish filled with holographic microglitters.",
+      "descriptionHtml": "NYX, goddess of night and darkness, is a black polish filled with holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Nyx (bottle).JPG",
+          "altText": "NYX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "NYX",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "1b673dcc-109d-4944-a88f-b1598c8325c4",
+      "name": "SELENE",
+      "categories": ["nail-polish"],
+      "collection": "goddess",
+      "vendor": "Paint Polish",
+      "path": "/selene",
+      "slug": "selene",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SELENE, goddess of the moon, is a muted gray polish with teal-green-purple shifting shimmer.",
+      "descriptionHtml": "SELENE, goddess of the moon, is a muted gray polish with teal-green-purple shifting shimmer.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-goddess-collection-nail-polish-neutrals-diyosa-i3108149824-s15361849436.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Goddess-Collection-Nail-Polish-neutrals-diyosa-i.804257685.16777269241",
+      "images": [
+        {
+          "url": "/assets/products/goddess/Selene (bottle).JPG",
+          "altText": "SELENE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/goddess/Goddess group pic 1.jpg",
+          "altText": "SELENE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "0de610b0-1438-4d4e-9ed7-860843ba9cce",
+      "name": "THE BRAVE",
+      "categories": ["nail-polish"],
+      "collection": "wizarding-world",
+      "vendor": "Paint Polish",
+      "path": "/the-brave",
+      "slug": "the-brave",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "THE BRAVE, inspired by Gryffindor, is a red magnetic polish on black base.",
+      "descriptionHtml": "THE BRAVE, inspired by Gryffindor, is a red magnetic polish on black base.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/wizarding-world/The Brave (magnetized, swatch 2).jpeg",
+          "altText": "THE BRAVE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
+          "altText": "THE BRAVE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9e630f43-59c0-4c25-9555-f15d6e925c85",
+      "name": "THE WISE",
+      "categories": ["nail-polish"],
+      "collection": "wizarding-world",
+      "vendor": "Paint Polish",
+      "path": "/the-wise",
+      "slug": "the-wise",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "THE WISE, inspired by Ravenclaw, is a blue magnetic polish on black base",
+      "descriptionHtml": "THE WISE, inspired by Ravenclaw, is a blue magnetic polish on black base",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/wizarding-world/The Wise (magnetized, swatch 2).jpeg",
+          "altText": "THE WISE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
+          "altText": "THE WISE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "d4d0678f-4ed1-4922-a90c-b85ab4fa2f31",
+      "name": "THE LOYAL",
+      "categories": ["nail-polish"],
+      "collection": "wizarding-world",
+      "vendor": "Paint Polish",
+      "path": "/the-loyal",
+      "slug": "the-loyal",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "THE LOYAL, inspired by Hufflepuff, is a yellow gold magnetic polish on black base",
+      "descriptionHtml": "THE LOYAL, inspired by Hufflepuff, is a yellow gold magnetic polish on black base",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/wizarding-world/The Loyal (magnetized, swatch 2).jpeg",
+          "altText": "THE LOYAL",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
+          "altText": "THE LOYAL",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7b7a509f-7da9-4f4e-9301-4d5b0bafa626",
+      "name": "THE CUNNING",
+      "categories": ["nail-polish"],
+      "collection": "wizarding-world",
+      "vendor": "Paint Polish",
+      "path": "/the-cunning",
+      "slug": "the-cunning",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "THE CUNNING, inspired by Slytherin, is a green magnetic polish on black base",
+      "descriptionHtml": "THE CUNNING, inspired by Slytherin, is a green magnetic polish on black base",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/wizarding-world/The Cunning (magnetized, swatch 2).jpeg",
+          "altText": "THE CUNNING",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
+          "altText": "THE CUNNING",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "20c14a47-b60b-416e-9dc6-becb8a398048",
+      "name": "ALWAYS",
+      "categories": ["nail-polish"],
+      "collection": "wizarding-world",
+      "vendor": "Paint Polish",
+      "path": "/always",
+      "slug": "always",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "ALWAYS, inspired by the unrequited love of Snape towards Lily, is a silvery pink magnetic polish on black base",
+      "descriptionHtml": "ALWAYS, inspired by the unrequited love of Snape towards Lily, is a silvery pink magnetic polish on black base",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-wizarding-world-and-spells-collection-nail-polish-harry-potter-witch-wizard-i3108264356-s15362174830.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Wizarding-World-and-Spells-Collection-Nail-Polish-Harry-Potter-witch-wizard-i.804257685.20116569956",
+      "images": [
+        {
+          "url": "/assets/products/wizarding-world/Always (magnetized, swatch 2).jpeg",
+          "altText": "ALWAYS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/wizarding-world/wizarding world group pic 2.jpg",
+          "altText": "ALWAYS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "883f6c3e-ef65-4150-9778-e66656e42adb",
+      "name": "BABY MOCHI",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/baby-mochi",
+      "slug": "baby-mochi",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by Jimin's microphone. BABY MOCHI is a yellow gold polish with gold shimmer.",
+      "descriptionHtml": "Inspired by Jimin's microphone. BABY MOCHI is a yellow gold polish with gold shimmer.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/baby mochi (bottle).JPG",
+          "altText": "BABY MOCHI",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "BABY MOCHI",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3e70a35d-896b-4cf3-8043-98fea68e8a0c",
+      "name": "BORAHAE",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/borahae",
+      "slug": "borahae",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by I💜U. BORAHAE is a purple heart topper on a clear base.",
+      "descriptionHtml": "Inspired by I💜U. BORAHAE is a purple heart topper on a clear base.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/borahae (bottle).JPG",
+          "altText": "BORAHAE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "BORAHAE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "03673bd6-214b-4182-83db-5a544211eae1",
+      "name": "KOOKIE",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/kookie",
+      "slug": "kookie",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by Jungkook's microphone. KOOKIE is a glossy deep velvet purple polish.",
+      "descriptionHtml": "Inspired by Jungkook's microphone. KOOKIE is a glossy deep velvet purple polish.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/kookie (bottle).JPG",
+          "altText": "KOOKIE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "KOOKIE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "0efbe0cc-cbcb-416c-8e68-59e81a718975",
+      "name": "LIL MEOW",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/lil-meow",
+      "slug": "lil-meow",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by Suga's microphone. LIL MEOW is a gunmetal black polish with subtle metallic shimmer and tiny rainbow microshimmer.",
+      "descriptionHtml": "Inspired by Suga's microphone. LIL MEOW is a gunmetal black polish with subtle metallic shimmer and tiny rainbow microshimmer.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/lil meow (bottle).JPG",
+          "altText": "LIL MEOW",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "LIL MEOW",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3802ea8e-56c8-4d68-a1c5-3a9b3f121f6c",
+      "name": "MOONCHILD",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/moonchild",
+      "slug": "moonchild",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by RM's microphone. MOONCHILD is an icy blue polish with metallic shimmer and holographic microglitters.",
+      "descriptionHtml": "Inspired by RM's microphone. MOONCHILD is an icy blue polish with metallic shimmer and holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/moonchild (bottle).JPG",
+          "altText": "MOONCHILD",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "MOONCHILD",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "d705f31d-294b-459a-be38-6e541a456592",
+      "name": "TAETAE",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/taetae",
+      "slug": "taetae",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by V's microphone. TAETAE is an emerald green polish with metallic shimmer.",
+      "descriptionHtml": "Inspired by V's microphone. TAETAE is an emerald green polish with metallic shimmer.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/taetae (bottle).JPG",
+          "altText": "TAETAE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "TAETAE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "d76b9563-ca9f-42c6-a430-9fc8de0e3d12",
+      "name": "WWH",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/wwh",
+      "slug": "wwh",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by Jin's microphone. WWH is a taffy pink polish with metallic shimmer and holographic microglitters.",
+      "descriptionHtml": "Inspired by Jin's microphone. WWH is a taffy pink polish with metallic shimmer and holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/WWH (bottle).JPG",
+          "altText": "WWH",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "WWH",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "13336a13-d42e-4d82-bd21-c768eb4abbbc",
+      "name": "HOBI",
+      "categories": ["nail-polish"],
+      "collection": "army",
+      "vendor": "Paint Polish",
+      "path": "/hobi",
+      "slug": "hobi",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Inspired by J‑Hope's microphone. HOBI is a silver with a tinge of purple polish with metallic shimmer and holographic microglitters.",
+      "descriptionHtml": "Inspired by J‑Hope's microphone. HOBI is a silver with a tinge of purple polish with metallic shimmer and holographic microglitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-army-collection-nail-polish-bts-bt21-kpop-i3108076713-s15361163087.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Army-Collection-Nail-Polish-BTS-BT21-kpop-i.804257685.21516321028",
+      "images": [
+        {
+          "url": "/assets/products/army/hobi (bottle).JPG",
+          "altText": "HOBI",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/army/army group pic 1.jpg",
+          "altText": "HOBI",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7470ef9f-becf-41d8-bc2e-eec7344fa5b2",
+      "name": "MIRAGE",
+      "categories": ["nail-polish"],
+      "collection": "ethereal",
+      "vendor": "Paint Polish",
+      "path": "/mirage",
+      "slug": "mirage",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "MIRAGE is a purple polish with bright blue glow",
+      "descriptionHtml": "MIRAGE is a purple polish with bright blue glow",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
+      "images": [
+        {
+          "url": "/assets/products/ethereal/Mirage (bottle).jpg",
+          "altText": "MIRAGE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
+          "altText": "MIRAGE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "a54a468a-7d63-4540-bf57-94a49bcdec03",
+      "name": "DEWDROP",
+      "categories": ["nail-polish"],
+      "collection": "ethereal",
+      "vendor": "Paint Polish",
+      "path": "/dewdrop",
+      "slug": "dewdrop",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "DEWDROP is a soft pale green polish with viridescent glow",
+      "descriptionHtml": "DEWDROP is a soft pale green polish with viridescent glow",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
+      "images": [
+        {
+          "url": "/assets/products/ethereal/Dewdrop (bottle).jpg",
+          "altText": "DEWDROP",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
+          "altText": "DEWDROP",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "1e6c68c9-8fcf-4cc1-9e71-705fb695a289",
+      "name": "TULLE",
+      "categories": ["nail-polish"],
+      "collection": "ethereal",
+      "vendor": "Paint Polish",
+      "path": "/tulle",
+      "slug": "tulle",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "TULLE is a delicate baby pink polish with bright pink glow",
+      "descriptionHtml": "TULLE is a delicate baby pink polish with bright pink glow",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
+      "images": [
+        {
+          "url": "/assets/products/ethereal/Tulle (bottle).jpg",
+          "altText": "TULLE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
+          "altText": "TULLE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "12d051fa-b3f1-4ceb-a02c-6f7980095d24",
+      "name": "OASIS",
+      "categories": ["nail-polish"],
+      "collection": "ethereal",
+      "vendor": "Paint Polish",
+      "path": "/oasis",
+      "slug": "oasis",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "OASIS is a baby blue polish with bright blue glow",
+      "descriptionHtml": "OASIS is a baby blue polish with bright blue glow",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
+      "images": [
+        {
+          "url": "/assets/products/ethereal/Oasis (bottle).jpg",
+          "altText": "OASIS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
+          "altText": "OASIS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "4345df0b-2343-4f97-8153-a4b62efc2dd3",
+      "name": "HALO",
+      "categories": ["nail-polish"],
+      "collection": "ethereal",
+      "vendor": "Paint Polish",
+      "path": "/halo",
+      "slug": "halo",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "HALO is a soft pastel yellow polish with bright yellow glow.",
+      "descriptionHtml": "HALO is a soft pastel yellow polish with bright yellow glow.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
+      "images": [
+        {
+          "url": "/assets/products/ethereal/Halo (bottle).jpg",
+          "altText": "HALO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
+          "altText": "HALO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "ad0b6d83-dde9-4fd4-8fbd-4a74518b4d00",
+      "name": "AURORA",
+      "categories": ["nail-polish"],
+      "collection": "ethereal",
+      "vendor": "Paint Polish",
+      "path": "/aurora",
+      "slug": "aurora",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "AURORA is a lavender polish with a bright yellow glow.",
+      "descriptionHtml": "AURORA is a lavender polish with a bright yellow glow.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
+      "images": [
+        {
+          "url": "/assets/products/ethereal/Aurora (bottle).jpg",
+          "altText": "AURORA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
+          "altText": "AURORA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "17c6b22d-b45b-4baf-a23a-c9b7cf2af11a",
+      "name": "PRISM",
+      "categories": ["nail-polish"],
+      "collection": "ethereal",
+      "vendor": "Paint Polish",
+      "path": "/prism",
+      "slug": "prism",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "PRISM is a 4-point holographic star topper.",
+      "descriptionHtml": "PRISM is a 4-point holographic star topper.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ethereal-collection-nail-polish-i3108139753-s15361584710.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ethereal-Collection-Nail-Polish-i.804257685.20216336690",
+      "images": [
+        {
+          "url": "/assets/products/ethereal/Prism (over white, bottle, swatch).jpg",
+          "altText": "PRISM",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ethereal/Ethereal group pic 1.jpg",
+          "altText": "PRISM",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "ed7c5421-aaa3-46f3-95dd-5c70bdfb2c59",
+      "name": "EVENTIDE",
+      "categories": ["nail-polish"],
+      "collection": "time",
+      "vendor": "Paint Polish",
+      "path": "/eventide",
+      "slug": "eventide",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "EVENTIDE is a royal blue base with shimmer and blue microglitters to represent the distant stars at night.",
+      "descriptionHtml": "EVENTIDE is a royal blue base with shimmer and blue microglitters to represent the distant stars at night.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-time-collection-nail-polish-i3108332074-s15362568541.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Time-Collection-Nail-Polish-i.804257685.18716353657",
+      "images": [
+        {
+          "url": "/assets/products/time/Eventide (bottle).jpg",
+          "altText": "EVENTIDE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/time/Time Collection group pic.JPG",
+          "altText": "EVENTIDE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "5905886f-7192-4f51-8c6b-906b1525a817",
+      "name": "TWILIGHT",
+      "categories": ["nail-polish"],
+      "collection": "time",
+      "vendor": "Paint Polish",
+      "path": "/twilight",
+      "slug": "twilight",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "TWILIGHT is a purple base with blue to purple duochrome to represent the crossover between dawn and sunrise, as well as the period between dusk and sunset.",
+      "descriptionHtml": "TWILIGHT is a purple base with blue to purple duochrome to represent the crossover between dawn and sunrise, as well as the period between dusk and sunset.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-time-collection-nail-polish-i3108332074-s15362568541.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Time-Collection-Nail-Polish-i.804257685.18716353657",
+      "images": [
+        {
+          "url": "/assets/products/time/Twilight (bottle).jpg",
+          "altText": "TWILIGHT",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/time/Time Collection group pic.JPG",
+          "altText": "TWILIGHT",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "b633326f-de76-46cf-8a5d-81cd9d43f38b",
+      "name": "DUSK",
+      "categories": ["nail-polish"],
+      "collection": "time",
+      "vendor": "Paint Polish",
+      "path": "/dusk",
+      "slug": "dusk",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "DUSK is a fiery red orange base with golden shimmer at just the right angle to represent the period after sunset.",
+      "descriptionHtml": "DUSK is a fiery red orange base with golden shimmer at just the right angle to represent the period after sunset.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-time-collection-nail-polish-i3108332074-s15362568541.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Time-Collection-Nail-Polish-i.804257685.18716353657",
+      "images": [
+        {
+          "url": "/assets/products/time/Dusk (bottle).jpg",
+          "altText": "DUSK",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/time/Time Collection group pic.JPG",
+          "altText": "DUSK",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7abf365b-621a-4bc1-9e79-914f69e57fbc",
+      "name": "DAWN",
+      "categories": ["nail-polish"],
+      "collection": "time",
+      "vendor": "Paint Polish",
+      "path": "/dawn",
+      "slug": "dawn",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "DAWN is a dusty yellow with shimmer and gold glitters as winks from the stars before sunrise.",
+      "descriptionHtml": "DAWN is a dusty yellow with shimmer and gold glitters as winks from the stars before sunrise.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-time-collection-nail-polish-i3108332074-s15362568541.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Time-Collection-Nail-Polish-i.804257685.18716353657",
+      "images": [
+        {
+          "url": "/assets/products/time/Dawn (bottle).jpg",
+          "altText": "DAWN",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/time/Time Collection group pic.JPG",
+          "altText": "DAWN",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "2f248359-d74e-409f-83fe-cee0cb75f1f1",
+      "name": "DANCE WITH FAIRIES",
+      "categories": ["nail-polish"],
+      "collection": "ever-after",
+      "vendor": "Paint Polish",
+      "path": "/dance-with-fairies",
+      "slug": "dance-with-fairies",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "DANCE WITH FAIRIES is a soft pink base with silver metallic flakes to portray wings; sprinkled with iridescent glitters to show their ethereal magic & topped it off with fine shimmer to represent fairy dust.",
+      "descriptionHtml": "DANCE WITH FAIRIES is a soft pink base with silver metallic flakes to portray wings; sprinkled with iridescent glitters to show their ethereal magic & topped it off with fine shimmer to represent fairy dust.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ever-after-collection-nail-polish-i3108074993-s15361638027.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ever-After-Collection-Nail-Polish-i.804257685.21016337083",
+      "images": [
+        {
+          "url": "/assets/products/ever-after/Dance with fairies (macro).JPG",
+          "altText": "DANCE WITH FAIRIES",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
+          "altText": "DANCE WITH FAIRIES",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "fcfa6bea-c3f2-450d-a749-70f7433a1e75",
+      "name": "SWIM WITH MERMAIDS",
+      "categories": ["nail-polish"],
+      "collection": "ever-after",
+      "vendor": "Paint Polish",
+      "path": "/swim-with-mermaids",
+      "slug": "swim-with-mermaids",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SWIM WITH MERMAIDS is a soft sea-green base with silver & gold metallic flakes to portray the scales of the tail fin; sprinkled with iridescent glitters for a final mystical look for the underwater princess.",
+      "descriptionHtml": "SWIM WITH MERMAIDS is a soft sea-green base with silver & gold metallic flakes to portray the scales of the tail fin; sprinkled with iridescent glitters for a final mystical look for the underwater princess.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ever-after-collection-nail-polish-i3108074993-s15361638027.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ever-After-Collection-Nail-Polish-i.804257685.21016337083",
+      "images": [
+        {
+          "url": "/assets/products/ever-after/Swim with mermaids (macro).JPG",
+          "altText": "SWIM WITH MERMAIDS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
+          "altText": "SWIM WITH MERMAIDS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "0a606679-ca66-456f-9eb0-438cbce19af7",
+      "name": "RIDE A UNICORN",
+      "categories": ["nail-polish"],
+      "collection": "ever-after",
+      "vendor": "Paint Polish",
+      "path": "/ride-a-unicorn",
+      "slug": "ride-a-unicorn",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "RIDE A UNICORN is a soft purple base with chameleon flakes reminescent of the variety of portrayals of this mythical creature; sprinkled with three different shades of metallic purple glitters left behind by its footprints.",
+      "descriptionHtml": "RIDE A UNICORN is a soft purple base with chameleon flakes reminescent of the variety of portrayals of this mythical creature; sprinkled with three different shades of metallic purple glitters left behind by its footprints.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ever-after-collection-nail-polish-i3108074993-s15361638027.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ever-After-Collection-Nail-Polish-i.804257685.21016337083",
+      "images": [
+        {
+          "url": "/assets/products/ever-after/Ride A Unicorn (swatch).jpg",
+          "altText": "RIDE A UNICORN",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
+          "altText": "RIDE A UNICORN",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "d98896f3-ab89-410b-b579-8156ea909309",
+      "name": "CHASE RAINBOWS",
+      "categories": ["nail-polish"],
+      "collection": "ever-after",
+      "vendor": "Paint Polish",
+      "path": "/chase-rainbows",
+      "slug": "chase-rainbows",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "CHASE RAINBOWS is a milky off-white base sprinkled with ROYGBIV glitters representing the seven colors of the rainbow; dusted with subtle hint of holographic pigments for an added depth to this surreal meteorological phenomenon.",
+      "descriptionHtml": "CHASE RAINBOWS is a milky off-white base sprinkled with ROYGBIV glitters representing the seven colors of the rainbow; dusted with subtle hint of holographic pigments for an added depth to this surreal meteorological phenomenon.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-ever-after-collection-nail-polish-i3108074993-s15361638027.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Ever-After-Collection-Nail-Polish-i.804257685.21016337083",
+      "images": [
+        {
+          "url": "/assets/products/ever-after/Chase Rainbows (bottle, swatch).JPG",
+          "altText": "CHASE RAINBOWS",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/ever-after/Ever After group pic 1.jpg",
+          "altText": "CHASE RAINBOWS",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "182262e2-85ee-4bc9-9c0f-979ceb393030",
+      "name": "AUTUMN",
+      "categories": ["nail-polish"],
+      "collection": "seasons",
+      "vendor": "Paint Polish",
+      "path": "/autumn",
+      "slug": "autumn",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "A solar jelly packed with yellow-gold-orange-red shifting flakes that transforms from sheer gray when hidden from the sun to garnet red when exposed to sunlight.",
+      "descriptionHtml": "A solar jelly packed with yellow-gold-orange-red shifting flakes that transforms from sheer gray when hidden from the sun to garnet red when exposed to sunlight.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-seasons-collection-nail-polish-i3108049641-s15360449472.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Seasons-Collection-Nail-Polish-i.804257685.19916348633",
+      "images": [
+        {
+          "url": "/assets/products/seasons/Autumn (macro).jpg",
+          "altText": "AUTUMN",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "deb3c016-0b07-4861-a42d-62962e6c6cce",
+      "name": "SOLSTICE",
+      "categories": ["nail-polish"],
+      "collection": "seasons",
+      "vendor": "Paint Polish",
+      "path": "/solstice",
+      "slug": "solstice",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "A tri-thermal jelly packed with yellow-green-purple-pink irridescent flakes that shifts from sheer pink when hot, peach pink when warm and berry when cold.",
+      "descriptionHtml": "A tri-thermal jelly packed with yellow-green-purple-pink irridescent flakes that shifts from sheer pink when hot, peach pink when warm and berry when cold.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-seasons-collection-nail-polish-i3108049641-s15360449472.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Seasons-Collection-Nail-Polish-i.804257685.19916348633",
+      "images": [
+        {
+          "url": "/assets/products/seasons/Solstice (macro).jpg",
+          "altText": "SOLSTICE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "065783ca-ad62-40b2-8d84-d7425394c909",
+      "name": "WINTER",
+      "categories": ["nail-polish"],
+      "collection": "seasons",
+      "vendor": "Paint Polish",
+      "path": "/winter",
+      "slug": "winter",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "A sheer blue jelly with a mix of various-sized blue & white, round & hexagonal chunky glitters, dusted with blue shimmer and glows bright blue in the dark.",
+      "descriptionHtml": "A sheer blue jelly with a mix of various-sized blue & white, round & hexagonal chunky glitters, dusted with blue shimmer and glows bright blue in the dark.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-seasons-collection-nail-polish-i3108049641-s15360449472.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Seasons-Collection-Nail-Polish-i.804257685.19916348633",
+      "images": [
+        {
+          "url": "/assets/products/seasons/Winter (macro).jpg",
+          "altText": "WINTER",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "ea30d60b-7211-4df1-82e8-c83232532219",
+      "name": "EQUINOX",
+      "categories": ["nail-polish"],
+      "collection": "seasons",
+      "vendor": "Paint Polish",
+      "path": "/equinox",
+      "slug": "equinox",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "A sheer purple jelly with shimmer, flecks and iridescent maple leaf chunky glitters the glows bright green in the dark.",
+      "descriptionHtml": "A sheer purple jelly with shimmer, flecks and iridescent maple leaf chunky glitters the glows bright green in the dark.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-seasons-collection-nail-polish-i3108049641-s15360449472.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Seasons-Collection-Nail-Polish-i.804257685.19916348633",
+      "images": [
+        {
+          "url": "/assets/products/seasons/Equinox (macro).jpg",
+          "altText": "EQUINOX",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9c0d2e5d-9c58-4f4f-ab51-17bab1000722",
+      "name": "SPRING",
+      "categories": ["nail-polish"],
+      "collection": "seasons",
+      "vendor": "Paint Polish",
+      "path": "/spring",
+      "slug": "spring",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "A sheer pale green (warm) to forest green (cold) thermal jelly with pearlescent shimmer and metallic duochrome maple leaf chunky glitters.",
+      "descriptionHtml": "A sheer pale green (warm) to forest green (cold) thermal jelly with pearlescent shimmer and metallic duochrome maple leaf chunky glitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-seasons-collection-nail-polish-i3108049641-s15360449472.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Seasons-Collection-Nail-Polish-i.804257685.19916348633",
+      "images": [
+        {
+          "url": "/assets/products/seasons/Spring (macro).jpg",
+          "altText": "SPRING",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "2e53537b-9a13-4554-b76b-959e7bd41366",
+      "name": "SUMMER",
+      "categories": ["nail-polish"],
+      "collection": "seasons",
+      "vendor": "Paint Polish",
+      "path": "/summer",
+      "slug": "summer",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "A solar jelly with gold microglitters, yellow round chunky glitters, and golden shimmer that shifts from sheer yellow when shaded from the sun to canary yellow when exposed to sunlight.",
+      "descriptionHtml": "A solar jelly with gold microglitters, yellow round chunky glitters, and golden shimmer that shifts from sheer yellow when shaded from the sun to canary yellow when exposed to sunlight.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-seasons-collection-nail-polish-i3108049641-s15360449472.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Seasons-Collection-Nail-Polish-i.804257685.19916348633",
+      "images": [
+        {
+          "url": "/assets/products/seasons/Summer (macro).jpg",
+          "altText": "SUMMER",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "acb86bec-4cce-4fb9-bc37-57e022415eee",
+      "name": "CLASSIC MILKTEA",
+      "categories": ["nail-polish"],
+      "collection": "milktea",
+      "vendor": "Paint Polish",
+      "path": "/classic-milktea",
+      "slug": "classic-milktea",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Mustard crelly with black, white and yellow various sized glitters.",
+      "descriptionHtml": "Mustard crelly with black, white and yellow various sized glitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-milktea-collection-nail-polish-i3108294850-s15363364042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Milktea-Collection-Nail-Polish-i.804257685.17577270598",
+      "images": [
+        {
+          "url": "/assets/products/milktea/Classic Milktea (swatch).jpg",
+          "altText": "CLASSIC MILKTEA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/milktea/Milktea group pic 2.jpg",
+          "altText": "CLASSIC MILKTEA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "31ef3b31-740c-4cb0-9bfa-25e7f4b6a21b",
+      "name": "YAKULT MILKTEA",
+      "categories": ["nail-polish"],
+      "collection": "milktea",
+      "vendor": "Paint Polish",
+      "path": "/yakult-milktea",
+      "slug": "yakult-milktea",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Milky off-white crelly with black, white and yellow various sized glitters.",
+      "descriptionHtml": "Milky off-white crelly with black, white and yellow various sized glitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-milktea-collection-nail-polish-i3108294850-s15363364042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Milktea-Collection-Nail-Polish-i.804257685.17577270598",
+      "images": [
+        {
+          "url": "/assets/products/milktea/Yakult Milktea (swatch).jpg",
+          "altText": "YAKULT MILKTEA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/milktea/Milktea group pic 2.jpg",
+          "altText": "YAKULT MILKTEA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "f9e19696-8463-4811-a814-56040222e068",
+      "name": "TARO MILKTEA",
+      "categories": ["nail-polish"],
+      "collection": "milktea",
+      "vendor": "Paint Polish",
+      "path": "/taro-milktea",
+      "slug": "taro-milktea",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Purple crelly with black, white and yellow various sized glitters.",
+      "descriptionHtml": "Purple crelly with black, white and yellow various sized glitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-milktea-collection-nail-polish-i3108294850-s15363364042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Milktea-Collection-Nail-Polish-i.804257685.17577270598",
+      "images": [
+        {
+          "url": "/assets/products/milktea/Taro Milktea (swatch).jpg",
+          "altText": "TARO MILKTEA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/milktea/Milktea group pic 2.jpg",
+          "altText": "TARO MILKTEA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "4fdc6f2e-d8a5-42b5-9114-867877018375",
+      "name": "MATCHA MILKTEA",
+      "categories": ["nail-polish"],
+      "collection": "milktea",
+      "vendor": "Paint Polish",
+      "path": "/matcha-milktea",
+      "slug": "matcha-milktea",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Green crelly with black, white and yellow various sized glitters.",
+      "descriptionHtml": "Green crelly with black, white and yellow various sized glitters.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-milktea-collection-nail-polish-i3108294850-s15363364042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Milktea-Collection-Nail-Polish-i.804257685.17577270598",
+      "images": [
+        {
+          "url": "/assets/products/milktea/Matcha Milktea (swatch).jpg",
+          "altText": "MATCHA MILKTEA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/milktea/Milktea group pic 2.jpg",
+          "altText": "MATCHA MILKTEA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "86e99a6e-dbbd-4f2a-a245-dc4377796d86",
+      "name": "AMERICANO",
+      "categories": ["nail-polish"],
+      "collection": "coffee",
+      "vendor": "Paint Polish",
+      "path": "/americano",
+      "slug": "americano",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Black jelly base with brown-gold-green shimmer with duochrome effects.",
+      "descriptionHtml": "Black jelly base with brown-gold-green shimmer with duochrome effects.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-coffee-collection-nail-polish-i3108078588-s15361433862.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
+      "images": [
+        {
+          "url": "/assets/products/coffee/Americano (bottle).JPG",
+          "altText": "AMERICANO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/coffee/Coffee group pic 1.JPG",
+          "altText": "AMERICANO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "f9708107-8135-4fa5-b10f-134bada5cb5a",
+      "name": "MOCHA",
+      "categories": ["nail-polish"],
+      "collection": "coffee",
+      "vendor": "Paint Polish",
+      "path": "/mocha",
+      "slug": "mocha",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Brown base filled with golden brown shimmer.",
+      "descriptionHtml": "Brown base filled with golden brown shimmer.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-coffee-collection-nail-polish-i3108078588-s15361433862.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
+      "images": [
+        {
+          "url": "/assets/products/coffee/Mocha (bottle).JPG",
+          "altText": "MOCHA",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/coffee/Coffee group pic 1.JPG",
+          "altText": "MOCHA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "9799abdd-e3e0-45b9-a0c6-001291f43547",
+      "name": "LATTE",
+      "categories": ["nail-polish"],
+      "collection": "coffee",
+      "vendor": "Paint Polish",
+      "path": "/latte",
+      "slug": "latte",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Milky brown creme with a hint of brown shimmer.",
+      "descriptionHtml": "Milky brown creme with a hint of brown shimmer.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-coffee-collection-nail-polish-i3108078588-s15361433862.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
+      "images": [
+        {
+          "url": "/assets/products/coffee/Latte (bottle).JPG",
+          "altText": "LATTE",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/coffee/Coffee group pic 1.JPG",
+          "altText": "LATTE",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "b46b91c5-e061-4e10-80e6-d460190648f4",
+      "name": "MACCHIATO",
+      "categories": ["nail-polish"],
+      "collection": "coffee",
+      "vendor": "Paint Polish",
+      "path": "/macchiato",
+      "slug": "macchiato",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "Brown base with holo pigments, holo flakes and brown to gold shimmer. This one dries a bit textured so top coat is highly recommended.",
+      "descriptionHtml": "Brown base with holo pigments, holo flakes and brown to gold shimmer. This one dries a bit textured so top coat is highly recommended.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-coffee-collection-nail-polish-i3108078588-s15361433862.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Coffee-Collection-Nail-Polish-i.804257685.17577266786",
+      "images": [
+        {
+          "url": "/assets/products/coffee/Macchiato (bottle).JPG",
+          "altText": "MACCHIATO",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/coffee/Coffee group pic 1.JPG",
+          "altText": "MACCHIATO",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "594c7ca9-6dc3-4f9b-a226-c524f2d9efa3",
+      "name": "Top Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/top-coat",
+      "slug": "top-coat",
+      "price": { "value": 150, "currencyCode": "PHP" },
+      "description": "",
+      "descriptionHtml": "",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-essentials-nail-polish-i3108422232-s15363518042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Essentials-Nail-Polish-i.804257685.14388807901",
+      "images": [
+        {
+          "url": "/assets/products/essentials/(Glossy) top coat.jpg",
+          "altText": "Top Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Top Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "43ed59d3-c053-48fa-83a9-337bc8752d99",
+      "name": "Matte Top Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/matte-top-coat",
+      "slug": "matte-top-coat",
+      "price": { "value": 250, "currencyCode": "PHP" },
+      "description": "",
+      "descriptionHtml": "",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-essentials-nail-polish-i3108422232-s15363518042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Essentials-Nail-Polish-i.804257685.14388807901",
+      "images": [
+        {
+          "url": "/assets/products/essentials/Matte top coat.jpg",
+          "altText": "Matte Top Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Matte Top Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "62e4181b-9ef6-45b6-9d09-bad7832011da",
+      "name": "Tinted Base Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/tinted-base-coat",
+      "slug": "tinted-base-coat",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "This functions like a primer: it conceals any stain or uneven discoloration of your nails and softens / blurs the line between the free edge and the nail bed (called visible nail line or VNL) for a smooth transition underneath sheer and jelly polishes. It will also help conserve your favorite polish by allowing use of fewer coats. This is your typical basecoat but with a twist.",
+      "descriptionHtml": "This functions like a primer: it conceals any stain or uneven discoloration of your nails and softens / blurs the line between the free edge and the nail bed (called visible nail line or VNL) for a smooth transition underneath sheer and jelly polishes. It will also help conserve your favorite polish by allowing use of fewer coats. This is your typical basecoat but with a twist.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-essentials-nail-polish-i3108422232-s15363518042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Essentials-Nail-Polish-i.804257685.14388807901",
+      "images": [
+        {
+          "url": "/assets/products/essentials/Tinted base coat.jpg",
+          "altText": "Tinted Base Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Tinted Base Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "875b9150-b547-4db4-a0a0-d2edc1c92952",
+      "name": "Scented Top Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/scented-top-coat",
+      "slug": "scented-top-coat",
+      "price": { "value": 200, "currencyCode": "PHP" },
+      "description": "",
+      "descriptionHtml": "",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-scented-essentials-collection-nail-polish-i3110332039-s15377765827.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Scented-Essentials-Collection-Nail-Polish-i.804257685.17477271822",
+      "images": [
+        {
+          "url": "/assets/products/essentials/(Glossy) top coat.jpg",
+          "altText": "Scented Top Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Scented Top Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "c4a2aaa1-3c14-4f5e-8352-9414a34931bb",
+      "name": "Scented Matte Top Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/scented-matte-top-coat",
+      "slug": "scented-matte-top-coat",
+      "price": { "value": 300, "currencyCode": "PHP" },
+      "description": "",
+      "descriptionHtml": "",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-scented-essentials-collection-nail-polish-i3110332039-s15377765827.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Scented-Essentials-Collection-Nail-Polish-i.804257685.17477271822",
+      "images": [
+        {
+          "url": "/assets/products/essentials/Matte top coat.jpg",
+          "altText": "Scented Matte Top Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Scented Matte Top Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "2a7da95b-1978-4494-94ff-6b46d539c675",
+      "name": "Scented Tinted Base Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/scented-tinted-base-coat",
+      "slug": "scented-tinted-base-coat",
+      "price": { "value": 400, "currencyCode": "PHP" },
+      "description": "This functions like a primer: it conceals any stain or uneven discoloration of your nails and softens / blurs the line between the free edge and the nail bed (called visible nail line or VNL) for a smooth transition underneath sheer and jelly polishes. It will also help conserve your favorite polish by allowing use of fewer coats. This is your typical basecoat but with a twist.",
+      "descriptionHtml": "This functions like a primer: it conceals any stain or uneven discoloration of your nails and softens / blurs the line between the free edge and the nail bed (called visible nail line or VNL) for a smooth transition underneath sheer and jelly polishes. It will also help conserve your favorite polish by allowing use of fewer coats. This is your typical basecoat but with a twist.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-scented-essentials-collection-nail-polish-i3110332039-s15377765827.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Scented-Essentials-Collection-Nail-Polish-i.804257685.17477271822",
+      "images": [
+        {
+          "url": "/assets/products/essentials/Tinted base coat.jpg",
+          "altText": "Scented Tinted Base Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Scented Tinted Base Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "4816cd91-124d-4fe8-ae35-0d1e1197b534",
+      "name": "Rose Quartz Top Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/rose-quartz-top-coat",
+      "slug": "rose-quartz-top-coat",
+      "price": { "value": 200, "currencyCode": "PHP" },
+      "description": "ROSE QUARTZ INFUSED TOP COAT: Inspired by cystals and chakras (and rose quartz facial massage roller) This is your typical top coat that is meant to seal your manicure with a glossy finish but with an added benefits of genuine crystal infusion. Rose quartz, the universal stone of love, supposedly attracts and strengthens unconditional love. and opens the heart chakra, which allows the energy of giving and receiving love to others in relationships. This energy can also help heal heartbreaks from wounded relationships. It encourages feelings and expressions of warmth, happiness, compassion, understanding, respect, emotional health, and self-love.",
+      "descriptionHtml": "ROSE QUARTZ INFUSED TOP COAT: Inspired by cystals and chakras (and rose quartz facial massage roller) This is your typical top coat that is meant to seal your manicure with a glossy finish but with an added benefits of genuine crystal infusion. Rose quartz, the universal stone of love, supposedly attracts and strengthens unconditional love. and opens the heart chakra, which allows the energy of giving and receiving love to others in relationships. This energy can also help heal heartbreaks from wounded relationships. It encourages feelings and expressions of warmth, happiness, compassion, understanding, respect, emotional health, and self-love.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-essentials-nail-polish-i3108422232-s15363518042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Essentials-Nail-Polish-i.804257685.14388807901",
+      "images": [
+        {
+          "url": "/assets/products/essentials/Rose quartz top coat.jpg",
+          "altText": "Rose Quartz Top Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Rose Quartz Top Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "bc9d7c97-ca29-48d4-8021-469301f31725",
+      "name": "Jade Top Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/jade-top-coat",
+      "slug": "jade-top-coat",
+      "price": { "value": 200, "currencyCode": "PHP" },
+      "description": "JADE INFUSED TOP COAT:Inspired by cystals and chakras (and jade bracelets 😁) This is your typical top coat that is meant to seal your manicure with a glossy finish but with an added benefits of genuine crystal infusion.Jade has long been considered a lucky stone. Also known as the happiness stone, it attracts prosperity, abundance and good fortune. It is one of the most treasured stones in China, where Feng Shui was developed. Lighter, more translucent type of Jade is considered as having softer energiesand is referred to as being yin. Darker, more opaque type of Jade are said to have stronger, bigger energy, and is considered to be yang.",
+      "descriptionHtml": "JADE INFUSED TOP COAT:Inspired by cystals and chakras (and jade bracelets 😁) This is your typical top coat that is meant to seal your manicure with a glossy finish but with an added benefits of genuine crystal infusion.Jade has long been considered a lucky stone. Also known as the happiness stone, it attracts prosperity, abundance and good fortune. It is one of the most treasured stones in China, where Feng Shui was developed. Lighter, more translucent type of Jade is considered as having softer energiesand is referred to as being yin. Darker, more opaque type of Jade are said to have stronger, bigger energy, and is considered to be yang.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-essentials-nail-polish-i3108422232-s15363518042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Essentials-Nail-Polish-i.804257685.14388807901",
+      "images": [
+        {
+          "url": "/assets/products/essentials/Jade top coat.jpg",
+          "altText": "Jade Top Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Jade Top Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "2afb905f-01fa-4246-9186-c3b7ebc276b8",
+      "name": "Amethyst Top Coat",
+      "categories": ["nail-polish"],
+      "collection": "the-essentials",
+      "vendor": "Paint Polish",
+      "path": "/amethyst-top-coat",
+      "slug": "amethyst-top-coat",
+      "price": { "value": 200, "currencyCode": "PHP" },
+      "description": "",
+      "descriptionHtml": "",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-the-essentials-nail-polish-i3108422232-s15363518042.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-The-Essentials-Nail-Polish-i.804257685.14388807901",
+      "images": [
+        {
+          "url": "/assets/products/essentials/Amethyst top coat.jpg",
+          "altText": "Amethyst Top Coat",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/essentials/The Essentials group photo 2.jpg",
+          "altText": "Amethyst Top Coat",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "e725dbe0-40b5-431a-880a-f8831457c9d6",
+      "name": "MARTINI",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/martini",
+      "slug": "martini",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "MARTINI is a White crelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "MARTINI is a White crelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273706.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-i/Martini (swatch 1).jpeg",
+          "altText": "MARTINI",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "03586fdd-e155-4532-bf3a-a9188eb37c17",
+      "name": "BLUE LAGOON",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/blue-lagoon",
+      "slug": "blue-lagoon",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "BLUE LAGOON is a Blue jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "BLUE LAGOON is a Blue jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273706.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-i/Blue Lagoon (swatch).jpg",
+          "altText": "BLUE LAGOON",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3e1e6b62-ee0b-4d11-8e77-bb10788c3696",
+      "name": "MARGARITA",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/margarita",
+      "slug": "margarita",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "MARGARITA is a Green jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "MARGARITA is a Green jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273706.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-i/Margarita (swatch 1).jpeg",
+          "altText": "MARGARITA",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "48aa9f49-0276-4fce-bc92-aee84d5ddb40",
+      "name": "COSMOPOLITAN",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/cosmopolitan",
+      "slug": "cosmopolitan",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "COSMOPOLITAN is a Red jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "COSMOPOLITAN is a Red jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273706.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-i/Cosmopolitan (swatch 1).jpeg",
+          "altText": "COSMOPOLITAN",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "fac8b4de-0de4-4186-b9b3-e204905830b9",
+      "name": "SCREWDRIVER",
+      "categories": ["nail-polish"],
+      "collection": "cocktail",
+      "vendor": "Paint Polish",
+      "path": "/screwdriver",
+      "slug": "screwdriver",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SCREWDRIVER is a Orange jelly base nail polish with gold & iridescent flakes.",
+      "descriptionHtml": "SCREWDRIVER is a Orange jelly base nail polish with gold & iridescent flakes.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-cocktail-collection-i-ii-nail-polish-i3108031663-s15360273706.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Cocktail-Collection-I-II-Nail-Polish-i.804257685.18116327252",
+      "images": [
+        {
+          "url": "/assets/products/cocktail-i/Screwdriver (swatch).jpg",
+          "altText": "SCREWDRIVER",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "4f043995-8f48-4956-ba53-189470cd5700",
+      "name": "Thinner",
+      "categories": ["miscellaneous"],
+      "collection": "miscellaneous",
+      "vendor": "Paint Polish",
+      "path": "/thinner",
+      "slug": "thinner",
+      "price": { "value": 30, "currencyCode": "PHP" },
+      "description": "Nail polish thinner that refreshes thickened nail polish by replacing solvents (butyl acetate and ethyl acetate) lost through evaporation. This is toluene-free so it can be used on polishes with special effects like flakies, glitters and holo pigments. 18.5ml/bottle",
+      "descriptionHtml": "Nail polish thinner that refreshes thickened nail polish by replacing solvents (butyl acetate and ethyl acetate) lost through evaporation. This is toluene-free so it can be used on polishes with special effects like flakies, glitters and holo pigments. 18.5ml/bottle",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-5-free-nail-polish-solvent-thinner-i3108281999-s15363325680.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-5-Free-Nail-Polish-Solvent-Thinner-i.804257685.19816352145",
+      "images": [
+        {
+          "url": "/assets/products/miscellaneous/Nail polish solvent_thinner (10ml).jpg",
+          "altText": "Thinner",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7803440d-276a-4277-8d9b-889b809fbd62",
+      "name": "DIY Nail Polish Kit",
+      "categories": ["miscellaneous"],
+      "collection": "miscellaneous",
+      "vendor": "Paint Polish",
+      "path": "/diy-nail-polish-kit",
+      "slug": "diy-nail-polish-kit",
+      "price": { "value": 500, "currencyCode": "PHP" },
+      "description": "Make your own nail polish at home. Inclusions:",
+      "descriptionHtml": "Make your own nail polish at home. Inclusions:",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-diy-nail-polish-kit-i3108329625-s15363268566.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-DIY-Nail-Polish-Kit-i.804257685.19516576380",
+      "images": [
+        {
+          "url": "/assets/products/miscellaneous/DIY Nail Polish Kit.jpg",
+          "altText": "DIY Nail Polish Kit",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "71aafaa7-3f00-4a60-95f9-c503b98d3db6",
+      "name": "Sailor Moon Nail Art Stamping Plate",
+      "categories": ["nail-art"],
+      "collection": "nail art",
+      "vendor": "Paint Polish",
+      "path": "/sailor-moon-nail-art-stamping-plate",
+      "slug": "sailor-moon-nail-art-stamping-plate",
+      "price": { "value": 250, "currencyCode": "PHP" },
+      "description": "Size 6 x 12cm with whiteboard at the back.",
+      "descriptionHtml": "Size 6 x 12cm with whiteboard at the back.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-sailormoon-bts-blackpink-nail-art-stamping-plate-i2160599043-s9650258600.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Sailormoon-BTS-Blackpink-Nail-Art-Stamping-Plate-i.804257685.16477271951",
+      "images": [
+        {
+          "url": "/assets/products/nail-art/sailor-moon-stamping-plate.jpg",
+          "altText": "Sailor Moon Nail Art Stamping Plate",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/nail-art/stamping-plates-group.jpg",
+          "altText": "Sailor Moon Nail Art Stamping Plate",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "ff7d4879-4551-4dd7-977f-a6b804523721",
+      "name": "BTS Nail Art Stamping Plate",
+      "categories": ["nail-art"],
+      "collection": "nail art",
+      "vendor": "Paint Polish",
+      "path": "/bts-nail-art-stamping-plate",
+      "slug": "bts-nail-art-stamping-plate",
+      "price": { "value": 250, "currencyCode": "PHP" },
+      "description": "Size 6 x 12cm with whiteboard at the back.",
+      "descriptionHtml": "Size 6 x 12cm with whiteboard at the back.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-sailormoon-bts-blackpink-nail-art-stamping-plate-i2160599043-s9650258600.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Sailormoon-BTS-Blackpink-Nail-Art-Stamping-Plate-i.804257685.16477271951",
+      "images": [
+        {
+          "url": "/assets/products/nail-art/bts-stamping-plate.jpg",
+          "altText": "BTS Nail Art Stamping Plate",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/nail-art/stamping-plates-group.jpg",
+          "altText": "BTS Nail Art Stamping Plate",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "6fa7f034-8154-4efb-b663-35df7cbe4043",
+      "name": "Blackpink Nail Art Stamping Plate",
+      "categories": ["nail-art"],
+      "collection": "nail art",
+      "vendor": "Paint Polish",
+      "path": "/blackpink-nail-art-stamping-plate",
+      "slug": "blackpink-nail-art-stamping-plate",
+      "price": { "value": 250, "currencyCode": "PHP" },
+      "description": "Size 6 x 12cm with whiteboard at the back.",
+      "descriptionHtml": "Size 6 x 12cm with whiteboard at the back.",
+      "lazadaUrl": "https://www.lazada.com.ph/products/paint-polish-sailormoon-bts-blackpink-nail-art-stamping-plate-i2160599043-s9650258600.html",
+      "shopeeUrl": "https://shopee.ph/Paint-Polish-Sailormoon-BTS-Blackpink-Nail-Art-Stamping-Plate-i.804257685.16477271951",
+      "images": [
+        {
+          "url": "/assets/products/nail-art/blackpink-stamping-plate.jpg",
+          "altText": "Blackpink Nail Art Stamping Plate",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/products/nail-art/stamping-plates-group.jpg",
+          "altText": "Blackpink Nail Art Stamping Plate",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": []
     }
   ]
 }
