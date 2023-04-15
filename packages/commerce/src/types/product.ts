@@ -85,6 +85,9 @@ export interface ProductVariant {
 }
 
 export interface Product {
+  shopeeUrl: string
+  lazadaUrl: string
+  soldOut: boolean
   /**
    *  The unique identifier for the product.
    */
