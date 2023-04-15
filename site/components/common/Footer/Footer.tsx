@@ -84,7 +84,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
               href="/"
               className="flex flex-initial items-center font-bold md:mr-24"
             >
-              <span className="rounded-full border border-accent-6 mr-2">
+              <span className="mr-2">
                 <Logo />
               </span>
               {/* <span>Paint Polish</span> */}
