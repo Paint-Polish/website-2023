@@ -1,25 +1,25 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Paint Polish | Home",
+  "titleTemplate": "%s - Paint Polish",
+  "description": "Official website of Paint Polish. First Philippine Artisan 5-Free and Cruelty-Free Nail Polish Est. 2021",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Paint Polish | Home",
+    "description": "Official website of Paint Polish. First Philippine Artisan 5-Free and Cruelty-Free Nail Polish Est. 2021",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://www.paintpolish.shop/",
+    "site_name": "Paint Polish",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Paint Polish"
       }
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@paintpolishph",
+    "site": "@paintpolishph",
     "cardType": "summary_large_image"
   }
 }
