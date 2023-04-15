@@ -23,14 +23,26 @@ const Navbar: FC<NavbarProps> = ({ links }) => (
             <Logo />
           </Link>
           <nav className={s.navMenu}>
-            <Link href="/search" className={s.link}>
-              All
+            <Link href="/" className={s.link}>
+              Home
             </Link>
-            {links?.map((l) => (
+            <Link href="/search/nail-polish" className={s.link}>
+              Nail Polish
+            </Link>
+            <Link href="/search/nail-care" className={s.link}>
+              Nail Care
+            </Link>
+            <Link href="/search/nail-art" className={s.link}>
+              Nail Art
+            </Link>
+            {/* {links?.map((l) => (
               <Link href={l.href} key={l.href} className={s.link}>
                 {l.label}
               </Link>
             ))}
+            <Link href="/faqs" className={s.link}>
+              FAQs
+            </Link> */}
           </nav>
         </div>
         {process.env.COMMERCE_SEARCH_ENABLED && (

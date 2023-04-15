@@ -38,13 +38,25 @@ export const filterQuery = (query: any) =>
 export const getCategoryPath = (path: string, brand?: string) => {
   const category = getSlug(path)
 
-  return `/search${brand ? `/designers/${brand}` : ''}${
-    category ? `/${category}` : ''
-  }`
+  // return `/search${brand ? `/designers/${brand}` : ''}${
+  //   category ? `/${category}` : ''
+  // }`
+
+  // Removed adding of collection here. All categories should not
+  // have a reference collection.
+  return `/search${category ? `/${category}` : ''}`
 }
 
 export const getDesignerPath = (path: string, category?: string) => {
+  // return `/search${path ? `/designers${path}` : ''}${
+  //   category ? `/${category}` : ''
+  // }`
+
+  // Always append nail-polish as the category when browsing
+  // collections / designer
+  const categoryToUse = 'nail-polish'
   return `/search${path ? `/designers${path}` : ''}${
-    category ? `/${category}` : ''
+    categoryToUse ? `/${categoryToUse}` : ''
   }`
 }
+  

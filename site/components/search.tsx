@@ -49,6 +49,8 @@ export default function Search({ categories, brands }: SearchPropsType) {
   const { data, error } = useSearch({
     search: typeof q === 'string' ? q : '',
     categoryId: activeCategory?.id,
+    // TODO
+    // collectionId: activeCollection?.id,
     brandId: activeBrand?.id,
     sort: typeof sort === 'string' ? sort : '',
     locale,
@@ -185,7 +187,7 @@ export default function Search({ categories, brands }: SearchPropsType) {
                 >
                   {activeBrand?.name
                     ? `Design: ${activeBrand?.name}`
-                    : 'All Designs'}
+                    : 'All Collections'}
                   <svg
                     className="-mr-1 ml-2 h-5 w-5"
                     xmlns="http://www.w3.org/2000/svg"
@@ -236,7 +238,7 @@ export default function Search({ categories, brands }: SearchPropsType) {
                             'block lg:inline-block px-4 py-2 lg:p-0 lg:my-2 lg:mx-4'
                           }
                         >
-                          All Designers
+                          All Collections
                         </a>
                       </Link>
                     </li>
