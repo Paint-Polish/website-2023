@@ -1,7 +1,7 @@
 {
-  "name": "Next.js Commerce",
-  "short_name": "Next.js Commerce",
-  "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
+  "name": "Paint Polish",
+  "short_name": "Paint Polish",
+  "description": "Official website of Paint Polish. First Philippine Artisan 5-Free and Cruelty-Free Nail Polish Est. 2021",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#fff",
