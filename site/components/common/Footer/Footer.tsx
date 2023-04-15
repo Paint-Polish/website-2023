@@ -21,6 +21,54 @@ const links = [
     name: 'Home',
     url: '/',
   },
+  {
+    name: 'Nail Polish',
+    url: '/search/nail-polish',
+  },
+  {
+    name: 'Nail Care',
+    url: '/search/nail-care',
+  },
+  {
+    name: 'Nail Art',
+    url: '/search/nail-art',
+  },
+  {
+    name: 'Miscellaneous',
+    url: '/search/miscellaneous',
+  },
+  {
+    name: 'Facebook',
+    url: 'https://www.facebook.com/paintpolish.official/',
+  },
+  {
+    name: 'Instagram',
+    url: 'https://www.instagram.com/paintpolish.official',
+  },
+  {
+    name: 'Shopee',
+    url: 'https://shopee.ph/paintpolishph',
+  },
+  {
+    name: 'Lazada',
+    url: 'https://www.lazada.com.ph/shop/paint-polish',
+  },
+  {
+    name: 'TikTok',
+    url: 'https://www.tiktok.com/@paintpolish.official',
+  },
+  {
+    name: 'FAQs',
+    url: '/faqs',
+  },
+  {
+    name: 'Contact',
+    url: '/contact-us',
+  },
+  {
+    name: 'About',
+    url: '/about-us',
+  },
 ]
 
 const Footer: FC<Props> = ({ className, pages }) => {
@@ -39,7 +87,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
               <span className="rounded-full border border-accent-6 mr-2">
                 <Logo />
               </span>
-              <span>ACME</span>
+              {/* <span>Paint Polish</span> */}
             </Link>
           </div>
           <div className="col-span-1 lg:col-span-7">
@@ -60,34 +108,12 @@ const Footer: FC<Props> = ({ className, pages }) => {
             <div className="flex space-x-4 items-center h-10">
               <ThemeSwitcher />
               <I18nWidget />
-              <a
-                className={s.link}
-                aria-label="Github Repository"
-                href="https://github.com/vercel/commerce"
-              >
-                <Github />
-              </a>
             </div>
           </div>
         </div>
         <div className="pt-6 pb-10 flex flex-col md:flex-row justify-between items-center space-y-4 text-accent-6 text-sm">
           <div>
-            <span>&copy; 2020 ACME, Inc. All rights reserved.</span>
-          </div>
-          <div className="flex items-center text-primary text-sm">
-            <span className="text-primary">Created by</span>
-            <a
-              rel="noopener noreferrer"
-              href="https://vercel.com"
-              aria-label="Vercel.com Link"
-              target="_blank"
-              className="text-primary"
-            >
-              <Vercel
-                className="inline-block h-6 ml-3 text-primary"
-                alt="Vercel.com Logo"
-              />
-            </a>
+            <span>&copy; 2023 Paint Polish. All rights reserved.</span>
           </div>
         </div>
       </Container>
