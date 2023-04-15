@@ -10,6 +10,10 @@
   @apply ml-6 flex items-center relative;
 }
 
+.item > svg {
+  @apply text-black;
+}
+
 .item > button {
   @apply cursor-pointer transition ease-in-out duration-100 outline-none text-primary;
 }
