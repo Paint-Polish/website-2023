@@ -39,10 +39,10 @@ const Navbar: FC<NavbarProps> = ({ links }) => (
               <Link href={l.href} key={l.href} className={s.link}>
                 {l.label}
               </Link>
-            ))}
+            ))} */}
             <Link href="/faqs" className={s.link}>
               FAQs
-            </Link> */}
+            </Link>
           </nav>
         </div>
         {process.env.COMMERCE_SEARCH_ENABLED && (
