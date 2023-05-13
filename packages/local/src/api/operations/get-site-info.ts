@@ -85,6 +85,12 @@ export default function getSiteInfoOperation({}: OperationContext<any>) {
           path: '/coffee',
         },
         {
+          id: 'coleccion-de-jardin',
+          name: 'Colección De Jardin',
+          slug: 'coleccion-de-jardin',
+          path: '/coleccion-de-jardin',
+        },
+        {
           id: 'the-essentials',
           name: 'The Essentials',
           slug: 'the-essentials',

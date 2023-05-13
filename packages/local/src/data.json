@@ -1,9 +1,207 @@
 {
   "products": [
     {
+      "id": "06e8829b-c52f-45ff-a177-c0285691c881",
+      "name": "YLANG-YLANG",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/ylang-ylang",
+      "slug": "ylang-ylang",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "YLANG-YLANG is a warm-toned seafoam green polish speckled with gold-reflecting turquoise metallic microflakes. Ylang-Ylang is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Ylang-Ylang-Coleccion-De-Jardin-Green-Turquoise-Microflakes-i.804257685.23367808284",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/ylang-ylang.jpg",
+          "altText": "YLANG-YLANG"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "bf74be4f-8b4f-4dbb-99ce-d7cb62d91b67",
+      "name": "WALING-WALING",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/waling-waling",
+      "slug": "waling-waling",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "WALING-WALING is a lilac polish speckled with amethyst metallic microflakes. Waling-Waling is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Waling-Waling-Coleccion-De-Jardin-Lilac-Amethyst-Microflakes-i.804257685.18379766418",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/waling-waling.jpg",
+          "altText": "WALING-WALING"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "d9e550aa-3aac-463a-a72a-c9d27352ac49",
+      "name": "GUMAMELA",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/gumamela",
+      "slug": "gumamela",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "GUMAMELA is a peach polish speckled with silver-reflecting orange metallic microflakes. Gumamela is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Gumamela-Coleccion-De-Jardin-Peach-Silver-Orange-Microflakes-i.804257685.23967800259",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/gumamela.jpg",
+          "altText": "GUMAMELA"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "4c593805-25fb-4edc-9773-d3854eaca22a",
+      "name": "TAYABAK",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/tayabak",
+      "slug": "tayabak",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "TAYABAK is a cool-toned mint green polish speckled with silver-reflecting teal metallic microflakes. Tayabak is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Tayabak-Coleccion-De-Jardin-Mint-Green-Silver-Teal-Microflakes-i.804257685.19088705423",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/tayabak.jpg",
+          "altText": "TAYABAK"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "91c0593e-3636-4c5e-a50b-634fc8ddf8ef",
+      "name": "PUKINGAN",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/pukingan",
+      "slug": "pukingan",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "PUKINGAN is a cornflower blue polish speckled with sapphire that shifts to purple metallic microflakes. Pukingan is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Pukingan-Coleccion-De-Jardin-Blue-Sapphire-Purple-Microflakes-i.804257685.22067800482",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/pukingan.jpg",
+          "altText": "PUKINGAN"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7a090e16-2493-4caf-881e-0484a10c585a",
+      "name": "RAFFLESIA",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/rafflesia",
+      "slug": "rafflesia",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "RAFFLESIA is a neutral tan polish speckled with copper metallic microflakes. Rafflesia is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Rafflesia-Coleccion-De-Jardin-Tan-Copper-Microflakes-i.804257685.21288703716",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/rafflesia.jpg",
+          "altText": "RAFFLESIA"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "a808dabf-bfc7-472f-bd25-d13b2f339d9d",
+      "name": "PLUMBAGO",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/plumbago",
+      "slug": "plumbago",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "PLUMBAGO is a powder blue polish speckled with delicate periwinkle metallic microflakes. Plumbago is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Plumbago-Coleccion-De-Jardin-Powder-Blue-Periwinkle-Microflakes-i.804257685.19888704605",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/plumbago.jpg",
+          "altText": "PLUMBAGO"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "3268a34f-7e8e-4806-86b5-90ae2fdea7bd",
+      "name": "SAMPAGUITA",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/sampaguita",
+      "slug": "sampaguita",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "SAMPAGUITA is a cream-colored polish speckled with gold microflakes. Sampaguita is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Sampaguita-Coleccion-De-Jardin-Cream-Gold-Microflakes-i.804257685.22742321286",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/sampaguita.jpg",
+          "altText": "SAMPAGUITA"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
+      "id": "7fd64760-a791-44b9-83db-f875df65d726",
+      "name": "KAPA-KAPA",
+      "categories": ["nail-polish", "new-arrivals", "featured"],
+      "collection": "coleccion-de-jardin",
+      "vendor": "Paint Polish",
+      "path": "/kapa-kapa",
+      "slug": "kapa-kapa",
+      "price": { "value": 350, "currencyCode": "PHP" },
+      "description": "KAPA-KAPA is a carnation pink polish speckled with gold-reflecting fuchsia metallic microflakes. Kapa-Kapa is from Colección De Jardin--a set of speckled pastel polishes inspired by the gorgeous tropical flowers native to the Philippines in celebration of Flores de Mayo.",
+      "descriptionHtml": "",
+      "lazadaUrl": "",
+      "shopeeUrl": "Paint-Polish-Nail-Polish-Kapa-Kapa-Coleccion-De-Jardin-Pink-Gold-Fuchsia-Microflakes-i.804257685.18188716625",
+      "images": [
+        {
+          "url": "/assets/products/coleccion-de-jardin/kapa-kapa.jpg",
+          "altText": "KAPA-KAPA"
+        }
+      ],
+      "variants": [],
+      "options": []
+    },
+    {
       "id": "961a9b22-5dac-4df9-85c8-b130dfadcc53",
       "name": "SOIREE",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "soiree",
       "vendor": "Paint Polish",
       "path": "/soiree",
@@ -33,7 +231,7 @@
     {
       "id": "53c4062d-604c-4496-a706-afb38a8d24d4",
       "name": "THE FIFTH",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "soiree",
       "vendor": "Paint Polish",
       "path": "/the-fifth",
@@ -63,7 +261,7 @@
     {
       "id": "450bce2f-d424-49e4-92f0-6e981c8f47b3",
       "name": "ARIES",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/aries",
@@ -89,7 +287,7 @@
     {
       "id": "0bb3a8fc-df2d-4883-bcc4-7f4d0114c9d6",
       "name": "TAURUS",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/taurus",
@@ -119,7 +317,7 @@
     {
       "id": "488dd72e-64de-411c-a66e-b61007702033",
       "name": "GEMINI",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/gemini",
@@ -145,7 +343,7 @@
     {
       "id": "a2758833-bbeb-4e93-a232-bae27acf02fc",
       "name": "CANCER",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/cancer",
@@ -171,7 +369,7 @@
     {
       "id": "95598204-5b1a-42a5-9dc6-5d902d4977e6",
       "name": "LEO",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/leo",
@@ -197,7 +395,7 @@
     {
       "id": "b6c7f978-dc6c-4cda-93d0-95d1dd1685c6",
       "name": "VIRGO",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/virgo",
@@ -223,7 +421,7 @@
     {
       "id": "a2461af4-a2eb-4a2c-9bc6-3e3bae365624",
       "name": "LIBRA",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/libra",
@@ -249,7 +447,7 @@
     {
       "id": "147c6728-e15a-4248-8983-b1bdda95f0e0",
       "name": "SCORPIO",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/scorpio",
@@ -275,7 +473,7 @@
     {
       "id": "b2f1cb2b-a1e1-4f9b-97ff-7907023ee39e",
       "name": "SAGITTARIUS",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/sagittarius",
@@ -305,7 +503,7 @@
     {
       "id": "7b29838d-0fb3-45a6-b6e6-6679d0732db4",
       "name": "CAPRICORN",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/capricorn",
@@ -331,7 +529,7 @@
     {
       "id": "8c03298c-d418-4fca-a0b3-11269d878f00",
       "name": "AQUARIUS",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/aquarius",
@@ -357,7 +555,7 @@
     {
       "id": "ffe5b4a7-2096-49c7-8b2c-2928fa2d16ba",
       "name": "PISCES",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/pisces",
@@ -387,7 +585,7 @@
     {
       "id": "1a6757d1-21e5-4c91-bea3-e3d013dbef02",
       "name": "OPHIUCHUS",
-      "categories": ["nail-polish", "new-arrivals"],
+      "categories": ["nail-polish"],
       "collection": "zodiac",
       "vendor": "Paint Polish",
       "path": "/ophiuchus",
@@ -899,7 +1097,7 @@
     {
       "id": "c57d9cf3-fa43-47a0-8abf-2ba4ab8323be",
       "name": "SECTUMSEMPRA",
-      "categories": ["nail-polish", "featured"],
+      "categories": ["nail-polish"],
       "collection": "spells",
       "vendor": "Paint Polish",
       "path": "/sectumsempra",
@@ -1313,7 +1511,7 @@
     {
       "id": "46e87d2d-9721-4ad5-8883-a4caa9aefec7",
       "name": "SANGRIA",
-      "categories": ["nail-polish", "featured"],
+      "categories": ["nail-polish"],
       "collection": "cocktail",
       "vendor": "Paint Polish",
       "path": "/sangria",
@@ -1701,7 +1899,7 @@
     {
       "id": "9fec69cb-1d12-4fdf-8056-4fb481f94b0d",
       "name": "CHLORIS",
-      "categories": ["nail-polish", "featured"],
+      "categories": ["nail-polish"],
       "collection": "goddess",
       "vendor": "Paint Polish",
       "path": "/chloris",
@@ -1907,7 +2105,7 @@
     {
       "id": "9e630f43-59c0-4c25-9555-f15d6e925c85",
       "name": "THE WISE",
-      "categories": ["nail-polish", "featured"],
+      "categories": ["nail-polish"],
       "collection": "wizarding-world",
       "vendor": "Paint Polish",
       "path": "/the-wise",
@@ -2127,7 +2325,7 @@
     {
       "id": "3802ea8e-56c8-4d68-a1c5-3a9b3f121f6c",
       "name": "MOONCHILD",
-      "categories": ["nail-polish", "featured"],
+      "categories": ["nail-polish"],
       "collection": "army",
       "vendor": "Paint Polish",
       "path": "/moonchild",
@@ -2575,7 +2773,7 @@
     {
       "id": "fcfa6bea-c3f2-450d-a749-70f7433a1e75",
       "name": "SWIM WITH MERMAIDS",
-      "categories": ["nail-polish", "featured"],
+      "categories": ["nail-polish"],
       "collection": "ever-after",
       "vendor": "Paint Polish",
       "path": "/swim-with-mermaids",
