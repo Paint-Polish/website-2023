@@ -4,6 +4,7 @@ import { ProductCard } from '@components/product'
 import { Grid, Marquee, Hero } from '@components/ui'
 // import HomeAllProductsGrid from '@components/common/HomeAllProductsGrid'
 import type { GetStaticPropsContext, InferGetStaticPropsType } from 'next'
+import { Product } from '@commerce/types/product'
 
 export async function getStaticProps({
   preview,
@@ -38,6 +39,15 @@ export async function getStaticProps({
 export default function Home({
   products,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
+
+  function shuffleArray(array: Array<Product>): Array<Product> {
+      for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+  }
+
   return (
     <>
       <Hero
@@ -76,7 +86,7 @@ export default function Home({
       </div>
 
       <Marquee>
-        {products.slice(3).map((product: any, i: number) => (
+        {shuffleArray(products.slice()).map((product: any, i: number) => (
           <ProductCard key={product.id} product={product} variant="slim" />
         ))}
       </Marquee>
