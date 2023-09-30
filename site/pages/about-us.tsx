@@ -33,17 +33,20 @@ export default function Faq() {
                         Hi! Paint Polish is the first artisan indie nail polish brand here in the Philippines.
                     </p>
                     <p className="text-gray-500 dark:text-gray-400 mb-10">
-                        I am a one-woman team with a full-time job who can 
-                        only allot once a week (usually on a Saturday) for this passion project turned small business.
+                        I am a healthcare worker who was temporarily burnt out by the pandemic and subsequently infected by covid-19 (thrice, to date).
+                        I turned to nail polish as a hobby especially during my own repeated two-week isolation periods during ECQ.
+                        I became passionate about the international independent nail polish brands that presented better special effects than
+                        the usual mainstream drugstore nail polishes. Because importing is extremely expensive and 
+                        there was none available in our country, I was inspired to start the first local indie nail polish and create my own. 
+                        This is also my very first business.
                     </p>
                     <p className="text-gray-500 dark:text-gray-400 mb-10">
-                        I personally handcraft everything (mixing, pouring, labelling, packaging, shipping, marketing, etc). 
-                        Hence, I can only do pre-orders for now as everything is made in small batches. Thank you for your
-                        patience. 😊
+                        Being a full-time healthcare worker, I have zero background in anything business related. 
+                        So in this aspect, I take it one step at a time and learn as I go, with a lot of bloopers along the way.
                     </p>
                     <p className="text-gray-500 dark:text-gray-400 mb-10">
-                        In an effort to reduce waste footprint, these will be wrapped in carefully curated and
-                        cleaned recycled bubblewraps and packaging materials (boxes/ribbons/wrappers) 😊
+                        Fortunately, Grizelda, stepped in late 2022 to collaborate for PAINT's first ever public appearance (Soiree).
+                        She became my business partner since then and handles mostly the business and marketing aspect of the brand.
                     </p>
                     <p className="text-gray-500 dark:text-gray-400 mb-10">
                         Thank you so much for visiting our website! Hope you will enjoy these colors as much as I
